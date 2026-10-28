@@ -1,0 +1,14 @@
+{
+  "category_visibility": {
+    "Cricket": true,
+    "IPL": true,
+    "Football": true
+  },
+  "sub_categories": {
+    "Cricket": {},
+    "IPL": {},
+    "Football": {}
+  },
+  "matches": [],
+  "deleted_matches": []
+}

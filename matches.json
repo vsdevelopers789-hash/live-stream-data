@@ -107,11 +107,11 @@
           "pos": 999
         }
       ],
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
       "isOthers": false,
       "liveStartedAt": 1793045160477,
-      "time": "",
+      "time": "2026-10-28T17:32",
       "finishedDate": "",
       "othersText": "",
       "infoImage": "",

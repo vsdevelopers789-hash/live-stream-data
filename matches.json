@@ -117,7 +117,7 @@
       "infoImage": "",
       "autoFinishEnabled": false,
       "autoFinishTime": "",
-      "serversVisible": false,
+      "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,
       "streamTimerStartedAt": 0,

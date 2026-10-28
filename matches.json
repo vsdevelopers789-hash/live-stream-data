@@ -151,5 +151,38 @@
       "_dbSource": "github"
     }
   ],
-  "deleted_matches": []
+  "deleted_matches": [
+    {
+      "id": "1793158959404",
+      "cat": "Cricket",
+      "sub_cat": "",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "",
+      "t2": "",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "",
+      "links": [],
+      "isLive": false,
+      "isFinished": false,
+      "isOthers": false,
+      "liveStartedAt": null,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "infoImage": "",
+      "autoFinishEnabled": false,
+      "autoFinishTime": "",
+      "pos": 4,
+      "visible": true,
+      "fb_key": "gh_1793158959404",
+      "_dbSource": "github"
+    }
+  ]
 }

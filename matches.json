@@ -74,7 +74,7 @@
       "autoFinishEnabled": false,
       "autoFinishTime": "",
       "pos": 999,
-      "visible": true,
+      "visible": false,
       "fb_key": "cw_1792818071445",
       "_dbSource": "github"
     },
@@ -200,7 +200,7 @@
       "autoFinishEnabled": false,
       "autoFinishTime": "",
       "pos": 999,
-      "visible": false,
+      "visible": true,
       "fb_key": "gh_1793160453786",
       "_dbSource": "github"
     }

@@ -146,7 +146,7 @@
       "autoFinishEnabled": false,
       "autoFinishTime": "",
       "pos": 4,
-      "visible": true,
+      "visible": false,
       "fb_key": "gh_1793158959404",
       "_dbSource": "github"
     },

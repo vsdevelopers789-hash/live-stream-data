@@ -174,8 +174,15 @@
           "pos": 999
         },
         {
+          "name": "Telugu",
+          "url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+          "visible": true,
+          "isBrowser": true,
+          "pos": 999
+        },
+        {
           "name": "English",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2710/ENG/master.m3u8?hdnea=exp=1793122776~acl=/*~id=6e5ba518a6eaf5cef0e52b197ae66429-1793079575457~hmac=d7ff435f4eaa327494e6f6c0a8e38aac1175d8062a89346d780e8d5a8286616a",
+          "url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
           "visible": true,
           "isBrowser": true,
           "pos": 999
@@ -192,9 +199,9 @@
       "autoFinishEnabled": false,
       "autoFinishTime": "",
       "serversVisible": true,
-      "streamTimerEnabled": true,
+      "streamTimerEnabled": false,
       "streamTimerDuration": 5,
-      "streamTimerStartedAt": 1793343069257,
+      "streamTimerStartedAt": 0,
       "pos": 3,
       "visible": true,
       "_dbSource": "github",

@@ -181,10 +181,10 @@
           "pos": 999
         }
       ],
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "liveStartedAt": 1793342400578,
+      "liveStartedAt": 1793343155981,
       "time": "",
       "finishedDate": "",
       "othersText": "",

@@ -185,11 +185,11 @@
           "pos": 999
         }
       ],
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
       "isOthers": false,
       "liveStartedAt": 1793343155981,
-      "time": "",
+      "time": "2026-10-30T23:14",
       "finishedDate": "",
       "othersText": "",
       "infoImage": "",

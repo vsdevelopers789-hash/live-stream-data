@@ -138,34 +138,48 @@
         {
           "name": "Sony LIV HD Telugu",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": true,
+          "visible": false,
           "isBrowser": true,
           "pos": 999
         },
         {
           "name": "Sony Liv HD English",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": true,
+          "visible": false,
           "isBrowser": true,
           "pos": 1
         },
         {
           "name": "Sony LIV HD Hindi",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": true,
+          "visible": false,
           "isBrowser": true,
           "pos": 999
         },
         {
           "name": "Sony LIV HD Tamil",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": true,
+          "visible": false,
           "isBrowser": true,
           "pos": 999
         },
         {
           "name": "Sony LIV HD Kannada",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+          "visible": false,
+          "isBrowser": true,
+          "pos": 999
+        },
+        {
+          "name": "Sony Liv HD English",
+          "url": "https://dai.google.com/ssai/event/EoLh9waTQSaoJqJMxe-Zlw/master.m3u8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
+        },
+        {
+          "name": "Sony LIV HD Hindi",
+          "url": "https://dai.google.com/ssai/event/OBZ7-96EQEmo49yN4mTxqg/master.m3u8",
           "visible": true,
           "isBrowser": true,
           "pos": 999

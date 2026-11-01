@@ -200,7 +200,7 @@
       "streamTimerDuration": 10,
       "streamTimerStartedAt": 1793515610370,
       "pos": 999,
-      "visible": false,
+      "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422"
     }

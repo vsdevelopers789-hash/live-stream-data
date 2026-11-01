@@ -197,9 +197,9 @@
       "autoFinishTime": "",
       "serversVisible": true,
       "streamTimerEnabled": true,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": 1793515497829,
-      "pos": 1,
+      "streamTimerDuration": 10,
+      "streamTimerStartedAt": 1793515610370,
+      "pos": 999,
       "visible": false,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422"

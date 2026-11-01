@@ -110,7 +110,7 @@
       "sub_cat": "INDIA TOUR OF NEW ZEALAND",
       "selected_match_id": "",
       "assigned_api_key": "",
-      "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/161234/ind-vs-nz-5th-t20i-india-tour-of-new-zealand-2026",
+      "scoreUrl": "",
       "t1": "INDIA",
       "t2": "NEW ZEALAND",
       "t1_score": "",
@@ -124,34 +124,34 @@
         {
           "name": "Willow Sports 🌏 English(Working✅ in Web Browser Also)",
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "visible": false,
+          "visible": true,
           "isBrowser": false,
           "pos": 999
         },
         {
           "name": "Fancode HD English (Working✅ in Web Browser Also)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-          "visible": false,
+          "visible": true,
           "isBrowser": false,
           "pos": 999
         },
         {
           "name": "Sony LIV HD Telugu",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": false,
+          "visible": true,
           "isBrowser": true,
           "pos": 999
         },
         {
           "name": "Sony Liv HD English",
-          "url": "https://sonymtmnew.akamaized.net/hls/live/2119931/cricodi_0111/ENG/master.m3u8?hdnea=exp=1793555170~acl=/*~id=05171743256484589574171739692373~hmac=302da17e59bc6d5f4a76354194ea8d041fd64fa0c1794d4d95099766c3987980",
+          "url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
           "visible": true,
           "isBrowser": true,
           "pos": 1
         },
         {
           "name": "Sony LIV HD Hindi",
-          "url": "https://sonymtmnew.akamaized.net/hls/live/2119921/cricodi_0111/HIN/master.m3u8?hdnea=exp=1793555170~acl=/*~id=05171743256484589574171739692373~hmac=302da17e59bc6d5f4a76354194ea8d041fd64fa0c1794d4d95099766c3987980",
+          "url": "https://liveakdai.slivcdn.com/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
           "visible": true,
           "isBrowser": true,
           "pos": 999
@@ -159,14 +159,14 @@
         {
           "name": "Sony LIV HD Tamil",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": false,
+          "visible": true,
           "isBrowser": true,
           "pos": 999
         },
         {
           "name": "Sony LIV HD Kannada",
           "url": "https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": false,
+          "visible": true,
           "isBrowser": true,
           "pos": 999
         },
@@ -185,11 +185,11 @@
           "pos": 999
         }
       ],
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
       "isOthers": false,
       "liveStartedAt": 1793343155981,
-      "time": "",
+      "time": "2026-11-01T12:30",
       "finishedDate": "",
       "othersText": "",
       "infoImage": "",
@@ -197,7 +197,7 @@
       "autoFinishTime": "",
       "serversVisible": true,
       "streamTimerEnabled": false,
-      "streamTimerDuration": 10,
+      "streamTimerDuration": 5,
       "streamTimerStartedAt": 0,
       "pos": 1,
       "visible": true,

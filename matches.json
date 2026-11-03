@@ -254,7 +254,7 @@
       "sub_cat": "",
       "selected_match_id": "",
       "assigned_api_key": "",
-      "scoreUrl": "",
+      "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/161234/ind-vs-nz-5th-t20i-india-tour-of-new-zealand-2026",
       "t1": "T1",
       "t2": "T2",
       "t1_score": "",
@@ -275,7 +275,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793718649612",
-      "_createdLocally": 1793718649612
+      "_createdLocally": 1793718668939
     }
   ],
   "deleted_matches": [

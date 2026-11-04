@@ -297,14 +297,21 @@
       "isLive": true,
       "isFinished": false,
       "isOthers": false,
+      "liveStartedAt": 1793759493215,
       "time": "",
       "finishedDate": "",
       "othersText": "",
+      "infoImage": "",
+      "autoFinishEnabled": false,
+      "autoFinishTime": "",
+      "serversVisible": true,
+      "streamTimerEnabled": true,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": 1793759493215,
       "pos": 1,
       "visible": true,
       "_dbSource": "github",
-      "fb_key": "gh_1793343125422",
-      "_createdLocally": 1793757181046
+      "fb_key": "gh_1793343125422"
     }
   ],
   "deleted_matches": [

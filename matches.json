@@ -216,12 +216,12 @@
     {
       "id": "1793100283620",
       "cat": "Cricket",
-      "sub_cat": "ODI SERIES 2026",
+      "sub_cat": "",
       "selected_match_id": "",
       "assigned_api_key": "",
       "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/161245/nz-vs-ind-1st-odi-india-tour-of-new-zealand-2026",
-      "t1": "INDIA",
-      "t2": "NEW ZEALAND",
+      "t1": "",
+      "t2": "",
       "t1_score": "",
       "t2_score": "",
       "ticker": "",
@@ -294,7 +294,7 @@
           "pos": 999
         }
       ],
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
       "isOthers": false,
       "liveStartedAt": 1793759493215,

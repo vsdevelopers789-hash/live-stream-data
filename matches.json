@@ -152,7 +152,7 @@
       "finishedDate": "2026-11-01T13:30:00.000Z",
       "othersText": "",
       "pos": 999,
-      "visible": true,
+      "visible": false,
       "_dbSource": "github",
       "fb_key": "gh_1793663469773",
       "_createdLocally": 1793718047365

@@ -218,8 +218,8 @@
       "cat": "Cricket",
       "sub_cat": "",
       "selected_match_id": "",
-      "assigned_api_key": "",
-      "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/161245/nz-vs-ind-1st-odi-india-tour-of-new-zealand-2026",
+      "assigned_api_key": "991e80a0-6e16-4aa8-a88c-143eb709342a",
+      "scoreUrl": "",
       "t1": "INDIA",
       "t2": "NEW ZEALAND",
       "t1_score": "",
@@ -294,24 +294,17 @@
           "pos": 999
         }
       ],
-      "isLive": true,
+      "isLive": false,
       "isFinished": false,
       "isOthers": false,
-      "liveStartedAt": 1793767441319,
       "time": "",
       "finishedDate": "",
       "othersText": "",
-      "infoImage": "",
-      "autoFinishEnabled": false,
-      "autoFinishTime": "",
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": 0,
       "pos": 1,
       "visible": true,
       "_dbSource": "github",
-      "fb_key": "gh_1793343125422"
+      "fb_key": "gh_1793343125422",
+      "_createdLocally": 1793767622690
     }
   ],
   "deleted_matches": [

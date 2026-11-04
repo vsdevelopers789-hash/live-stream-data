@@ -5,7 +5,9 @@
     "Football": false
   },
   "sub_categories": {
-    "Cricket": {},
+    "Cricket": {
+      "sub_1793756726707": "ODI SERIES 2026"
+    },
     "IPL": {},
     "Football": {}
   },

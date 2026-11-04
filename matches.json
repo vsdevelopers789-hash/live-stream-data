@@ -218,10 +218,10 @@
     {
       "id": "1793100283620",
       "cat": "Cricket",
-      "sub_cat": "",
+      "sub_cat": "ODI SERIES 2026",
       "selected_match_id": "",
       "assigned_api_key": "",
-      "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/161234/ind-vs-nz-5th-t20i-india-tour-of-new-zealand-2026",
+      "scoreUrl": "",
       "t1": "INDIA",
       "t2": "NEW ZEALAND",
       "t1_score": "",
@@ -296,17 +296,24 @@
           "pos": 999
         }
       ],
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "isOthers": false,
+      "liveStartedAt": 1793756738144,
       "time": "",
       "finishedDate": "",
       "othersText": "",
-      "pos": 1,
+      "infoImage": "",
+      "autoFinishEnabled": false,
+      "autoFinishTime": "",
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": 0,
+      "pos": 999,
       "visible": true,
       "_dbSource": "github",
-      "fb_key": "gh_1793343125422",
-      "_createdLocally": 1793730828348
+      "fb_key": "gh_1793343125422"
     }
   ],
   "deleted_matches": [

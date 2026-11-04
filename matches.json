@@ -181,7 +181,7 @@
       "finishedDate": "",
       "othersText": "",
       "pos": 999,
-      "visible": true,
+      "visible": false,
       "_dbSource": "github",
       "fb_key": "gh_1793718649612",
       "_createdLocally": 1793718668939

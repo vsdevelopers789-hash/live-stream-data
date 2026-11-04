@@ -5,9 +5,7 @@
     "Football": false
   },
   "sub_categories": {
-    "Cricket": {
-      "sub_1793756726707": "ODI SERIES 2026"
-    },
+    "Cricket": {},
     "IPL": {},
     "Football": {}
   },
@@ -299,21 +297,14 @@
       "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "liveStartedAt": 1793756738144,
       "time": "",
       "finishedDate": "",
       "othersText": "",
-      "infoImage": "",
-      "autoFinishEnabled": false,
-      "autoFinishTime": "",
-      "serversVisible": true,
-      "streamTimerEnabled": true,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": 1793756844739,
       "pos": 1,
       "visible": true,
       "_dbSource": "github",
-      "fb_key": "gh_1793343125422"
+      "fb_key": "gh_1793343125422",
+      "_createdLocally": 1793757034849
     }
   ],
   "deleted_matches": [

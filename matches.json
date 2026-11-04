@@ -294,10 +294,10 @@
           "pos": 999
         }
       ],
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "liveStartedAt": 1793759493215,
+      "liveStartedAt": 1793767441319,
       "time": "",
       "finishedDate": "",
       "othersText": "",

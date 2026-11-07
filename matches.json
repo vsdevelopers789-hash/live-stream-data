@@ -125,7 +125,7 @@
           "name": "Sony LIV HD Telugu",
           "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8|Cookie=hdnea=exp=1794054398~acl=/*~id=35083061525596278690298080425087~hmac=1ddff2b1e82c3da0240a8170a1b6bc9e61226ac5466a9881835ff71e7c52dfb1",
           "visible": true,
-          "isBrowser": true,
+          "isBrowser": false,
           "pos": 999
         },
         {
@@ -181,7 +181,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
-      "_createdLocally": 1794020002851
+      "_createdLocally": 1794020194501
     }
   ],
   "deleted_matches": [

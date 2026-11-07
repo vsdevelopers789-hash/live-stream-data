@@ -5,9 +5,7 @@
     "Football": false
   },
   "sub_categories": {
-    "Cricket": {
-      "sub_1794018592078": "2nd odi India tour of New Zealand 2026"
-    },
+    "Cricket": {},
     "IPL": {},
     "Football": {}
   },
@@ -183,7 +181,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
-      "_createdLocally": 1794018636853
+      "_createdLocally": 1794019069460
     }
   ],
   "deleted_matches": [

@@ -95,8 +95,8 @@
       "cat": "Cricket",
       "sub_cat": "",
       "selected_match_id": "",
-      "assigned_api_key": "fc9fe78b-09e9-4384-8341-6d81592454ef",
-      "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/161256/nz-vs-ind-2nd-odi-india-tour-of-new-zealand-2026",
+      "assigned_api_key": "",
+      "scoreUrl": "",
       "t1": "INDIA",
       "t2": "NEW ZEALAND",
       "t1_score": "",
@@ -171,7 +171,7 @@
           "pos": 999
         }
       ],
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "isOthers": false,
       "time": "",
@@ -181,7 +181,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
-      "_createdLocally": 1793861367584
+      "_createdLocally": 1794018406983
     }
   ],
   "deleted_matches": [

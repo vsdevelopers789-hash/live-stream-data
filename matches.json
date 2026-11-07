@@ -123,8 +123,8 @@
         },
         {
           "name": "Sony LIV HD Telugu",
-          "url": "https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
-          "visible": false,
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8|Cookie=hdnea=exp=1794054398~acl=/*~id=35083061525596278690298080425087~hmac=1ddff2b1e82c3da0240a8170a1b6bc9e61226ac5466a9881835ff71e7c52dfb1",
+          "visible": true,
           "isBrowser": true,
           "pos": 999
         },
@@ -181,7 +181,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
-      "_createdLocally": 1794019695401
+      "_createdLocally": 1794020002851
     }
   ],
   "deleted_matches": [

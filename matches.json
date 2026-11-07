@@ -137,7 +137,7 @@
         },
         {
           "name": "Sony LIV HD Hindi",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/master.m3u8?hdnea=exp=1793798700~acl=/*~id=06802408037398795188169725931422~hmac=1953eff1565e1082f23175b7857152ab7da67b186acebee9c36c508d663bd81b",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794060237~acl=/*~id=86664001516394608707889862932313~hmac=2da8d44934aeabe7050d36bf82679faf9b644674b1e7f9857907c54ffe615733",
           "visible": true,
           "isBrowser": true,
           "pos": 999
@@ -181,7 +181,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
-      "_createdLocally": 1794019206564
+      "_createdLocally": 1794019249804
     }
   ],
   "deleted_matches": [

@@ -5,7 +5,9 @@
     "Football": false
   },
   "sub_categories": {
-    "Cricket": {},
+    "Cricket": {
+      "sub_1794018592078": "2nd odi India tour of New Zealand 2026"
+    },
     "IPL": {},
     "Football": {}
   },

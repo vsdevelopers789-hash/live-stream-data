@@ -172,9 +172,13 @@
       "othersText": "",
       "pos": 999,
       "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
       "_dbSource": "github",
       "fb_key": "gh_1793274253589",
-      "_createdLocally": 1794044727331
+      "_createdLocally": 1794246794929
     }
   ],
   "deleted_matches": [

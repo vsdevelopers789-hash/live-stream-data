@@ -653,7 +653,7 @@
       "finishedDate": "",
       "othersText": "",
       "pos": 999,
-      "visible": false,
+      "visible": true,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,

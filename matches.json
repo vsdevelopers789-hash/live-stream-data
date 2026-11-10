@@ -694,6 +694,156 @@
       "_dbSource": "github",
       "fb_key": "gh_1794325475469",
       "_createdLocally": 1794325475469
+    },
+    {
+      "id": "dash_0_1794327051182",
+      "fb_key": "gh_1794327091502_0",
+      "_dbSource": "github",
+      "cat": "Cricket",
+      "sub_cat": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India",
+      "t1": "New Zealand",
+      "t2": "India",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/nz.png",
+      "t2_img": "https://flagcdn.com/w160/in.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "pos": 1,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (FASTLY SERVER2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AMAZON SERVER2)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 6
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AKAMAI SERVER2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 7
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (CLOUDFRONT SERVER2)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 8
+        }
+      ],
+      "_createdLocally": 1794327091502
+    },
+    {
+      "id": "dash_2_1794327051182",
+      "fb_key": "gh_1794327110790_2",
+      "_dbSource": "github",
+      "cat": "Cricket",
+      "sub_cat": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19",
+      "t1": "India U19",
+      "t2": "United Arab Emirates U19",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/in.png",
+      "t2_img": "https://flagcdn.com/w160/ae.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "pos": 2,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "isBrowser": false,
+          "playerType": "dash",
+          "visible": true,
+          "pos": 4
+        }
+      ],
+      "_createdLocally": 1794327110790
     }
   ],
   "deleted_matches": [

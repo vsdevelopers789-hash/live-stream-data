@@ -179,6 +179,201 @@
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
       "_createdLocally": 1794282079266
+    },
+    {
+      "id": "1794312315231",
+      "cat": "Cricket",
+      "sub_cat": "",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "T1",
+      "t2": "T2",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "",
+      "links": [
+        {
+          "name": "SET HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony SAB HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Marathi BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740-b%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Pal BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Aath BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Yay BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony MAX HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670-b%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony MAX BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony MAX 2 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony WAH BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony PIX HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Ten 1 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Ten 1 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739-b%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony Ten 2 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony Ten 2 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590-b%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony Ten 3 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591-b%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony Ten 3 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592-b%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony Ten 4 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony Ten 4 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Ten 4 Kannada BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4kannada%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony Ten 5 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593-b%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony Ten 5 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594-b%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "BBC Earth HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        }
+      ],
+      "isLive": false,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "pos": 999,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794312315231",
+      "_createdLocally": 1794312315233
     }
   ],
   "deleted_matches": [

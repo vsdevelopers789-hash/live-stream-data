@@ -2,7 +2,7 @@
   "category_visibility": {
     "Cricket": true,
     "IPL": false,
-    "Football": true
+    "Football": false
   },
   "sub_categories": {
     "Cricket": {},

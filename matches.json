@@ -773,7 +773,7 @@
       "isOthers": false,
       "time": "",
       "pos": 2,
-      "visible": false,
+      "visible": true,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

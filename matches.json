@@ -161,9 +161,9 @@
           "pos": 999
         },
         {
-          "name": "Sony LIV HD Hindi",
-          "url": "https://dai.google.com/ssai/event/OBZ7-96EQEmo49yN4mTxqg/master.m3u8",
-          "visible": false,
+          "name": "Sony  HD Bengali",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794318903~acl=/*~id=92785768601850624456278826436998~hmac=966aa7a407e9aa403b25f5cd716ace3f1a6b2c83c2f8838bdf6af25eaf0b2c64",
+          "visible": true,
           "isBrowser": true,
           "pos": 999
         }
@@ -178,7 +178,7 @@
       "visible": true,
       "_dbSource": "github",
       "fb_key": "gh_1793343125422",
-      "_createdLocally": 1794282026818
+      "_createdLocally": 1794282052973
     }
   ],
   "deleted_matches": [

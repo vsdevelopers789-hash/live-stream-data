@@ -104,521 +104,6 @@
       "_createdLocally": 1794282079266
     },
     {
-      "id": "1794312315231",
-      "cat": "Cricket",
-      "sub_cat": "",
-      "selected_match_id": "",
-      "assigned_api_key": "",
-      "scoreUrl": "",
-      "t1": "T1",
-      "t2": "T2",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "",
-      "innings": "",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "",
-      "links": [
-        {
-          "name": "SET HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sony SAB HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sony Marathi BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740-b%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sony Pal BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sony Aath BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sony Yay BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sony MAX HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670-b%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sony MAX BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sony MAX 2 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sony WAH BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        },
-        {
-          "name": "Sony PIX HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 11
-        },
-        {
-          "name": "Sony Ten 1 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 12
-        },
-        {
-          "name": "Sony Ten 1 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739-b%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 13
-        },
-        {
-          "name": "Sony Ten 2 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 14
-        },
-        {
-          "name": "Sony Ten 2 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590-b%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 15
-        },
-        {
-          "name": "Sony Ten 3 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591-b%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 16
-        },
-        {
-          "name": "Sony Ten 3 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592-b%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 17
-        },
-        {
-          "name": "Sony Ten 4 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 18
-        },
-        {
-          "name": "Sony Ten 4 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 19
-        },
-        {
-          "name": "Ten 4 Kannada BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4kannada%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 20
-        },
-        {
-          "name": "Sony Ten 5 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593-b%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 21
-        },
-        {
-          "name": "Sony Ten 5 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594-b%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 22
-        },
-        {
-          "name": "BBC Earth HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 23
-        }
-      ],
-      "isLive": false,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "finishedDate": "",
-      "othersText": "",
-      "pos": 999,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "gh_1794312315231",
-      "_createdLocally": 1794312315233
-    },
-    {
-      "id": "1794316195283",
-      "cat": "Cricket",
-      "sub_cat": "",
-      "selected_match_id": "",
-      "assigned_api_key": "",
-      "scoreUrl": "",
-      "t1": "T1",
-      "t2": "T2",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "",
-      "innings": "",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "",
-      "links": [
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (FASTLY SERVER1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AMAZON SERVER1)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AKAMAI SERVER1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (CLOUDFRONT SERVER1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (FASTLY SERVER2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AMAZON SERVER2)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AKAMAI SERVER2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (CLOUDFRONT SERVER2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 11
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 12
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 13
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER2)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 14
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 15
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 16
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (FASTLY SERVER1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 17
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (AMAZON SERVER1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 18
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (AKAMAI SERVER1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 19
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (CLOUDFRONT SERVER1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 20
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (FASTLY SERVER1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 21
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (AMAZON SERVER1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 22
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (AKAMAI SERVER1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 23
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (CLOUDFRONT SERVER1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 24
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (FASTLY SERVER1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 25
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AMAZON SERVER1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 26
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AKAMAI SERVER1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 27
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (CLOUDFRONT SERVER1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 28
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (FASTLY SERVER2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 29
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AMAZON SERVER2)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 30
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AKAMAI SERVER2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 31
-        },
-        {
-          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (CLOUDFRONT SERVER2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 32
-        },
-        {
-          "name": "test",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 999
-        }
-      ],
-      "isLive": false,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "finishedDate": "",
-      "othersText": "",
-      "pos": 999,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "gh_1794316195283",
-      "_createdLocally": 1794323329133
-    },
-    {
-      "id": "1794325475469",
-      "cat": "Cricket",
-      "sub_cat": "ATP 250 - Bybit Stockholm Open 2026",
-      "selected_match_id": "",
-      "assigned_api_key": "",
-      "scoreUrl": "",
-      "t1": "World Feed",
-      "t2": "Stockholm, Sweden",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "",
-      "innings": "",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
-      "links": [
-        {
-          "name": "FanCode HD (1080p)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "FanCode Fast (720p)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/720p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "FanCode Low Net (480p)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/480p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        }
-      ],
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "finishedDate": "",
-      "othersText": "",
-      "pos": 999,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "gh_1794325475469",
-      "_createdLocally": 1794325475469
-    },
-    {
       "id": "dash_0_1794327051182",
       "fb_key": "gh_1794327091502_0",
       "_dbSource": "github",
@@ -1914,6 +1399,521 @@
         }
       ],
       "_createdLocally": 1794372336313
+    },
+    {
+      "id": "1794316195283",
+      "cat": "Cricket",
+      "sub_cat": "",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "T1",
+      "t2": "T2",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "",
+      "links": [
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (FASTLY SERVER2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AMAZON SERVER2)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (AKAMAI SERVER2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India (CLOUDFRONT SERVER2)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ewiumxnizp/out/v1/054a28c43d5342b78f5da83110018cfb/cenc.mpd|drmLicense=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER2)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER2)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5i8njab7h8/out/v1/7172ba9c42a34ba8937e5ee5586a3f34/cenc.mpd|drmLicense=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd|drmLicense=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd|drmLicense=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 24
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 25
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 26
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 27
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 28
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (FASTLY SERVER2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 29
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AMAZON SERVER2)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 30
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (AKAMAI SERVER2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 31
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women (CLOUDFRONT SERVER2)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/sbxu1x8clv/out/v1/4d52c855ebce45dfbfef870bb8c13f59/cenc.mpd|drmLicense=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 32
+        },
+        {
+          "name": "test",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794395227~_GO=Generated~acl=/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/*~SessionID=1ecfcd05085593939b608e5dd5635aee_playbox_67be1333-0d36-41~Signature=AbO9BjhfnjRBId2pirDVeQWTNZr0uAUdRJg5nRu9005Ox6Bc1f4Sd__YrGlUxXklVzMcPOk2gHguE7kdzX0OSXbzvOkO",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
+        }
+      ],
+      "isLive": false,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "pos": 999,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794316195283",
+      "_createdLocally": 1794323329133
+    },
+    {
+      "id": "1794312315231",
+      "cat": "Cricket",
+      "sub_cat": "",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "T1",
+      "t2": "T2",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "",
+      "links": [
+        {
+          "name": "SET HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony SAB HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Marathi BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740-b%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Pal BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Aath BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Yay BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony MAX HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670-b%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony MAX BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony MAX 2 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony WAH BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony PIX HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Ten 1 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Ten 1 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739-b%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony Ten 2 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony Ten 2 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590-b%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony Ten 3 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591-b%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony Ten 3 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592-b%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony Ten 4 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony Ten 4 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Ten 4 Kannada BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4kannada%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony Ten 5 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593-b%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony Ten 5 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594-b%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "BBC Earth HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794322586~acl%3D%2F*~id%3D92271584157145978298819245720308~hmac%3D58ff39846be83957d78b9a62160057307499aab8b1aec9a6e054a950658aa89f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        }
+      ],
+      "isLive": false,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "pos": 999,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794312315231",
+      "_createdLocally": 1794312315233
+    },
+    {
+      "id": "1794325475469",
+      "cat": "Cricket",
+      "sub_cat": "ATP 250 - Bybit Stockholm Open 2026",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "World Feed",
+      "t2": "Stockholm, Sweden",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+      "links": [
+        {
+          "name": "FanCode HD (1080p)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "FanCode Fast (720p)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/720p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "FanCode Low Net (480p)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/480p.m3u8?hdntl=Expires=1794397649~_GO=Generated~acl=/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/*~SessionID=e05bfce500dd6cb678163bdef213c5db_playbox_c4ca7337-f3d3-41~Signature=AbO9BjgwOa6Qfx1ikQ4s_e7hdk5BKPE48l2LDeZ6jpIVs3034uIkAmiwxDyo0sbjy2gMvVKvk4qfClC8-QIUCytu9bcJ",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        }
+      ],
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "pos": 999,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794325475469",
+      "_createdLocally": 1794325475469
     }
   ]
 }

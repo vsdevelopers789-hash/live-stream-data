@@ -166,13 +166,13 @@
       "pos": 999,
       "visible": true,
       "serversVisible": true,
-      "streamTimerEnabled": false,
+      "streamTimerEnabled": true,
       "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
+      "streamTimerStartedAt": 1794389562054,
       "_dbSource": "github",
       "fb_key": "gh_1793274253589",
       "_isAutoFeedMatch": false,
-      "_createdLocally": 1794389538759
+      "_createdLocally": 1794389562054
     }
   ],
   "deleted_matches": [

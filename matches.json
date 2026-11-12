@@ -225,6 +225,66 @@
         }
       ],
       "_createdLocally": 1794391787208
+    },
+    {
+      "id": "dash_0_1794468025527",
+      "fb_key": "gh_1794468040946_0",
+      "_dbSource": "github",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
+      "t1": "Pakistan",
+      "t2": "Sri Lanka",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/pk.png",
+      "t2_img": "https://flagcdn.com/w160/lk.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "pos": 1,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 4
+        }
+      ],
+      "_createdLocally": 1794468040946
     }
   ],
   "deleted_matches": [

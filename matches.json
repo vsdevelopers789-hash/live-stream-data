@@ -319,7 +319,7 @@
       "finishedDate": "",
       "othersText": "",
       "pos": 1,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,

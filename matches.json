@@ -5,7 +5,9 @@
     "Football": false
   },
   "sub_categories": {
-    "Cricket": {},
+    "Cricket": {
+      "sub_1794536915063": "ODI INDIA TOUR OF NEW ZEALAND -2026"
+    },
     "IPL": {},
     "Football": {}
   },
@@ -364,7 +366,7 @@
       "finishedDate": "",
       "othersText": "",
       "pos": 1,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": true,
       "streamTimerDuration": 5,

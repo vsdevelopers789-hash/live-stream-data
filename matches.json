@@ -671,13 +671,13 @@
       "pos": 2,
       "visible": true,
       "serversVisible": true,
-      "streamTimerEnabled": true,
+      "streamTimerEnabled": false,
       "streamTimerDuration": 5,
-      "streamTimerStartedAt": 1794536150594,
+      "streamTimerStartedAt": null,
       "_dbSource": "github",
       "fb_key": "gh_1794468239771_0",
       "_isAutoFeedMatch": false,
-      "_createdLocally": 1794536921598
+      "_createdLocally": 1794536948744
     }
   ],
   "deleted_matches": [

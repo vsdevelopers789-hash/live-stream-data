@@ -5,7 +5,9 @@
     "Football": false
   },
   "sub_categories": {
-    "Cricket": {},
+    "Cricket": {
+      "sub_1794573216062": "India vs Zimbabwe"
+    },
     "IPL": {},
     "Football": {}
   },

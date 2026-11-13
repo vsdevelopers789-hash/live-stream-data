@@ -175,330 +175,6 @@
       "_createdLocally": 1794389562054
     },
     {
-      "id": "4250404_ENG",
-      "fb_key": "gh_1794391787208_0",
-      "_dbSource": "github",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "Women's Big Bash League, 2026",
-      "t1": "Sydney Thunder Women",
-      "t2": "Perth Scorchers Women",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Women's Big Bash League, 2026 LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/un.png",
-      "t2_img": "https://flagcdn.com/w160/gb-sct.png",
-      "card": "https://www.fancode.com/skillup-uploads/cms-media/4250404_53125_PS-W_ST-W_fc-web_1793352702145.jpg",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "pos": 1,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "FanCode HD (1080p)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794470402~_GO=Generated~acl=/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/*~SessionID=979272e72c874b787e90e88dc98fc39e_playbox_96b00b6f-4514-41~Signature=AbO9Bjgku8c6FwbvHagsJIxqUdLoE3ytuyWjy3EsCVSvFKVq1sjorCRM7YgxQi8TRA61fsUtofN7gLBJ7r7RxrL3lFcD",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "FanCode Fast (720p)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/720p.m3u8?hdntl=Expires=1794470402~_GO=Generated~acl=/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/*~SessionID=979272e72c874b787e90e88dc98fc39e_playbox_96b00b6f-4514-41~Signature=AbO9Bjgku8c6FwbvHagsJIxqUdLoE3ytuyWjy3EsCVSvFKVq1sjorCRM7YgxQi8TRA61fsUtofN7gLBJ7r7RxrL3lFcD",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "FanCode Low Net (480p)",
-          "url": "https://in-mc-flive.fancode.com/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/480p.m3u8?hdntl=Expires=1794470402~_GO=Generated~acl=/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/*~SessionID=979272e72c874b787e90e88dc98fc39e_playbox_96b00b6f-4514-41~Signature=AbO9Bjgku8c6FwbvHagsJIxqUdLoE3ytuyWjy3EsCVSvFKVq1sjorCRM7YgxQi8TRA61fsUtofN7gLBJ7r7RxrL3lFcD",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 3
-        }
-      ],
-      "_createdLocally": 1794391787208
-    },
-    {
-      "id": "dash_0_1794468025527",
-      "fb_key": "gh_1794468040946_0",
-      "_dbSource": "github",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
-      "t1": "Pakistan",
-      "t2": "Sri Lanka",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/pk.png",
-      "t2_img": "https://flagcdn.com/w160/lk.png",
-      "card": "",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "pos": 1,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 3
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 4
-        }
-      ],
-      "_createdLocally": 1794468040946
-    },
-    {
-      "id": "sonyliv_1794468229451",
-      "fb_key": "gh_1794468239771_0",
-      "_dbSource": "github",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "SonyLIV Channels",
-      "t1": "Live Channel 1",
-      "t2": "Live Channel 2",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "SonyLIV Channels LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/un.png",
-      "t2_img": "https://flagcdn.com/w160/un.png",
-      "card": "",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "pos": 1,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "SET HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "Sony SAB HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "Sony Marathi BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740-b%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 3
-        },
-        {
-          "name": "Sony Pal BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 4
-        },
-        {
-          "name": "Sony Aath BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 5
-        },
-        {
-          "name": "Sony Yay BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 6
-        },
-        {
-          "name": "Sony MAX HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670-b%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 7
-        },
-        {
-          "name": "Sony MAX BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 8
-        },
-        {
-          "name": "Sony MAX 2 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 9
-        },
-        {
-          "name": "Sony WAH BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 10
-        },
-        {
-          "name": "Sony PIX HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 11
-        },
-        {
-          "name": "Sony Ten 1 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 12
-        },
-        {
-          "name": "Sony Ten 1 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739-b%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 13
-        },
-        {
-          "name": "Sony Ten 2 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 14
-        },
-        {
-          "name": "Sony Ten 2 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590-b%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 15
-        },
-        {
-          "name": "Sony Ten 3 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591-b%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 16
-        },
-        {
-          "name": "Sony Ten 3 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592-b%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 17
-        },
-        {
-          "name": "Sony Ten 4 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 18
-        },
-        {
-          "name": "Sony Ten 4 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 19
-        },
-        {
-          "name": "Ten 4 Kannada BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4kannada%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 20
-        },
-        {
-          "name": "Sony Ten 5 HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593-b%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 21
-        },
-        {
-          "name": "Sony Ten 5 BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594-b%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 22
-        },
-        {
-          "name": "BBC Earth HD BROWSERPLAY",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
-          "playerType": "hls",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 23
-        }
-      ],
-      "_createdLocally": 1794468239771
-    },
-    {
       "id": "dash_0_1794535812700",
       "fb_key": "gh_1794535819831_0",
       "_dbSource": "github",
@@ -651,6 +327,201 @@
       "_dbSource": "github",
       "fb_key": "gh_1794468128882_0",
       "_createdLocally": 1794535903988
+    },
+    {
+      "id": "sonyliv_1794468229451",
+      "cat": "Cricket",
+      "sub_cat": "SonyLIV Channels",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "Live Channel 1",
+      "t2": "Live Channel 2",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "https://flagcdn.com/w160/un.png",
+      "t2_img": "https://flagcdn.com/w160/un.png",
+      "card": "",
+      "links": [
+        {
+          "name": "SET HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony SAB HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Marathi BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740-b%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Pal BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Aath BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Yay BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony MAX HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670-b%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony MAX BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony MAX 2 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony WAH BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony PIX HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Ten 1 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Ten 1 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739-b%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony Ten 2 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony Ten 2 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590-b%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony Ten 3 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591-b%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony Ten 3 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592-b%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony Ten 4 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony Ten 4 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Ten 4 Kannada BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4kannada%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony Ten 5 HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593-b%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony Ten 5 BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594-b%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "BBC Earth HD BROWSERPLAY",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794354835~acl%3D%2F*~id%3D97276501261564590925863161159481~hmac%3D7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        }
+      ],
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "pos": 999,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794468239771_0",
+      "_createdLocally": 1794536038182
     }
   ],
   "deleted_matches": [
@@ -848,6 +719,118 @@
       "_dbSource": "github",
       "fb_key": "gh_1794312315231",
       "_createdLocally": 1794312315233
+    },
+    {
+      "id": "4250404_ENG",
+      "fb_key": "gh_1794391787208_0",
+      "_dbSource": "github",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "Women's Big Bash League, 2026",
+      "t1": "Sydney Thunder Women",
+      "t2": "Perth Scorchers Women",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Women's Big Bash League, 2026 LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/un.png",
+      "t2_img": "https://flagcdn.com/w160/gb-sct.png",
+      "card": "https://www.fancode.com/skillup-uploads/cms-media/4250404_53125_PS-W_ST-W_fc-web_1793352702145.jpg",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "pos": 1,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "FanCode HD (1080p)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794470402~_GO=Generated~acl=/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/*~SessionID=979272e72c874b787e90e88dc98fc39e_playbox_96b00b6f-4514-41~Signature=AbO9Bjgku8c6FwbvHagsJIxqUdLoE3ytuyWjy3EsCVSvFKVq1sjorCRM7YgxQi8TRA61fsUtofN7gLBJ7r7RxrL3lFcD",
+          "playerType": "hls",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "FanCode Fast (720p)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/720p.m3u8?hdntl=Expires=1794470402~_GO=Generated~acl=/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/*~SessionID=979272e72c874b787e90e88dc98fc39e_playbox_96b00b6f-4514-41~Signature=AbO9Bjgku8c6FwbvHagsJIxqUdLoE3ytuyWjy3EsCVSvFKVq1sjorCRM7YgxQi8TRA61fsUtofN7gLBJ7r7RxrL3lFcD",
+          "playerType": "hls",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "FanCode Low Net (480p)",
+          "url": "https://in-mc-flive.fancode.com/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/480p.m3u8?hdntl=Expires=1794470402~_GO=Generated~acl=/mumbai/4250404_english_hls_d5552654b857084_1ta-di_h264/*~SessionID=979272e72c874b787e90e88dc98fc39e_playbox_96b00b6f-4514-41~Signature=AbO9Bjgku8c6FwbvHagsJIxqUdLoE3ytuyWjy3EsCVSvFKVq1sjorCRM7YgxQi8TRA61fsUtofN7gLBJ7r7RxrL3lFcD",
+          "playerType": "hls",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 3
+        }
+      ],
+      "_createdLocally": 1794391787208
+    },
+    {
+      "id": "dash_0_1794468025527",
+      "fb_key": "gh_1794468040946_0",
+      "_dbSource": "github",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka",
+      "t1": "Pakistan",
+      "t2": "Sri Lanka",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/pk.png",
+      "t2_img": "https://flagcdn.com/w160/lk.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "pos": 1,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (FASTLY SERVER1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AMAZON SERVER1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (AKAMAI SERVER1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka (CLOUDFRONT SERVER1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ka4bvhuhfh/out/v1/89f6d9ff4a204157ae8fddfc9b8c6083/cenc.mpd|drmLicense=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900",
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 4
+        }
+      ],
+      "_createdLocally": 1794468040946
     }
   ]
 }

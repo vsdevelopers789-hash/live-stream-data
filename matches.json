@@ -3,7 +3,7 @@
     "Cricket": true,
     "IPL": true,
     "Football": true,
-    "Others": false
+    "Others": true
   },
   "sub_categories": {
     "Cricket": {},

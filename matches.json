@@ -1261,5 +1261,12 @@
       ],
       "_createdLocally": 1794535819831
     }
+  ],
+  "stream_sources": [
+    {
+      "id": "src_1794636624198_wh6tx",
+      "label": "Pastefy-Raw-Sony",
+      "url": "https://pastefy.app/6wOwFjlG/raw"
+    }
   ]
 }

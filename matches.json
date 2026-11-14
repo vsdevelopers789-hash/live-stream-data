@@ -15,7 +15,9 @@
     {
       "id": "src_1794636624198_wh6tx",
       "label": "Pastefy-Raw-Sony",
-      "url": "https://pastefy.app/6wOwFjlG/raw"
+      "url": "https://pastefy.app/6wOwFjlG/raw",
+      "approved": true,
+      "targetDatabase": "github"
     }
   ]
 }

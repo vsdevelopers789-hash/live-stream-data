@@ -816,6 +816,13 @@
       "url": "https://aryanstreams.pages.dev/data/sony_m3u8.json?t=1794279938700",
       "approved": false,
       "targetDatabase": "cloudflare"
+    },
+    {
+      "id": "src_1794641750727_79qe6",
+      "label": "pastefy",
+      "url": "https://pastefy.app/6wOwFjlG/raw",
+      "approved": false,
+      "targetDatabase": "cloudflare"
     }
   ]
 }

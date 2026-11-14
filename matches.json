@@ -20,6 +20,13 @@
       "url": "https://pastefy.app/6wOwFjlG/raw",
       "approved": false,
       "targetDb": "cloudflare"
+    },
+    {
+      "id": "src_1794654687200_77t5j",
+      "label": "GitHub- Willow",
+      "url": "https://raw.githubusercontent.com/ARYANBHAIcool/aryanstreams2/main/data/willow.json?_=1794287007254",
+      "approved": false,
+      "targetDb": "cloudflare"
     }
   ]
 }

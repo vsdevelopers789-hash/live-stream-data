@@ -12,67 +12,6 @@
   },
   "matches": [
     {
-      "id": "B0HP83ZWBB",
-      "fb_key": "src_1794654687200_77t5j_B0HP83ZWBB",
-      "_dbSource": "github",
-      "_isAutoFeedMatch": true,
-      "sourceId": "src_1794654687200_77t5j",
-      "cat": "Cricket",
-      "sub_cat": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
-      "t1": "Afghanistan",
-      "t2": "Zimbabwe in UAE 2026",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "status": "live",
-      "time": "11:30 AM BDT",
-      "timezone": "Asia/Kolkata",
-      "visible": true,
-      "serversVisible": true,
-      "links": [
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 3
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 4
-        }
-      ],
-      "pos": 999
-    },
-    {
       "id": "network_src_1794654740769_f7qp4",
       "fb_key": "network_src_1794654740769_f7qp4",
       "_dbSource": "github",
@@ -1341,6 +1280,67 @@
         {
           "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd|drmLicense=fc4968fb4dec837fa5be62f9c463cf04:0b7d70bbf114543bc92193021ccc0b23",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 4
+        }
+      ],
+      "pos": 999
+    },
+    {
+      "id": "B0HP83ZWBB",
+      "fb_key": "src_1794654687200_77t5j_B0HP83ZWBB",
+      "_dbSource": "github",
+      "_isAutoFeedMatch": true,
+      "sourceId": "src_1794654687200_77t5j",
+      "cat": "Cricket",
+      "sub_cat": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
+      "t1": "Afghanistan",
+      "t2": "Zimbabwe in UAE 2026",
+      "t1_img": "https://flagcdn.com/w160/af.png",
+      "t2_img": "https://flagcdn.com/w160/zw.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "status": "live",
+      "time": "11:30 AM BDT",
+      "timezone": "Asia/Kolkata",
+      "visible": false,
+      "serversVisible": true,
+      "links": [
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd|drmLicense=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02",
           "headers": {},
           "playerType": "dash",
           "isBrowser": false,

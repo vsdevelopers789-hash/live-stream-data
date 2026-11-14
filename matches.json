@@ -573,7 +573,7 @@
       "isFinished": false,
       "isOthers": false,
       "status": "live",
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "links": [
         {

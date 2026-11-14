@@ -27,6 +27,13 @@
       "url": "https://raw.githubusercontent.com/ARYANBHAIcool/aryanstreams2/main/data/willow.json?_=1794287007254",
       "approved": false,
       "targetDb": "cloudflare"
+    },
+    {
+      "id": "src_1794654740769_f7qp4",
+      "label": "Aony- AAryan",
+      "url": "https://aryanstreams.pages.dev/data/sony_m3u8.json?t=1794279938700",
+      "approved": false,
+      "targetDb": "cloudflare"
     }
   ]
 }

@@ -13,5 +13,13 @@
   },
   "matches": [],
   "deleted_matches": [],
-  "stream_sources": []
+  "stream_sources": [
+    {
+      "id": "src_1794654649646_2947d",
+      "label": "PasteFy",
+      "url": "https://pastefy.app/6wOwFjlG/raw",
+      "approved": false,
+      "targetDb": "cloudflare"
+    }
+  ]
 }

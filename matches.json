@@ -13,67 +13,6 @@
   },
   "matches": [
     {
-      "id": "B0HPTVJM1M",
-      "fb_key": "src_1794654687200_77t5j_B0HPTVJM1M",
-      "_dbSource": "github",
-      "_isAutoFeedMatch": true,
-      "sourceId": "src_1794654687200_77t5j",
-      "cat": "Football",
-      "sub_cat": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19",
-      "t1": "Pakistan U19",
-      "t2": "India U19",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "status": "live",
-      "time": "10:30 AM BDT",
-      "timezone": "Asia/Kolkata",
-      "visible": true,
-      "serversVisible": true,
-      "links": [
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 3
-        },
-        {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
-          "headers": {},
-          "playerType": "dash",
-          "isBrowser": false,
-          "visible": true,
-          "pos": 4
-        }
-      ],
-      "pos": 999
-    },
-    {
       "id": "B0HP83ZWBB",
       "fb_key": "src_1794654687200_77t5j_B0HP83ZWBB",
       "_dbSource": "github",
@@ -1032,5 +971,67 @@
       "pos": 999
     }
   ],
-  "deleted_matches": []
+  "deleted_matches": [
+    {
+      "id": "B0HPTVJM1M",
+      "fb_key": "src_1794654687200_77t5j_B0HPTVJM1M",
+      "_dbSource": "github",
+      "_isAutoFeedMatch": true,
+      "sourceId": "src_1794654687200_77t5j",
+      "cat": "Football",
+      "sub_cat": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19",
+      "t1": "Pakistan U19",
+      "t2": "India U19",
+      "t1_img": "https://flagcdn.com/w160/pk.png",
+      "t2_img": "https://flagcdn.com/w160/in.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.904507c1-17ab-40ca-bb74-220df1e3d76e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "status": "live",
+      "time": "10:30 AM BDT",
+      "timezone": "Asia/Kolkata",
+      "visible": false,
+      "serversVisible": true,
+      "links": [
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+          "headers": {},
+          "playerType": "dash",
+          "isBrowser": false,
+          "visible": true,
+          "pos": 4
+        }
+      ],
+      "pos": 999
+    }
+  ]
 }

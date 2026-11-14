@@ -1297,7 +1297,7 @@
       "links": [
         {
           "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmScheme=clearkey&drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "visible": true,
           "isBrowser": false,
           "pos": 1
@@ -1334,7 +1334,7 @@
       "servers": [
         {
           "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd|drmScheme=clearkey&drmLicense=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|%7CdrmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "visible": true,
           "isBrowser": false,
           "pos": 1
@@ -1383,7 +1383,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794661308041_0",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794664662830
+      "_createdLocally": 1794664724614
     }
   ],
   "deleted_matches": []

@@ -55,78 +55,146 @@
       "streamTimerEnabled": false,
       "links": [
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (fastly_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (amazon_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (akamai_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (cloudfront_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (fastly_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (amazon_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (akamai_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (cloudfront_server1)",
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19 (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794661308041
@@ -161,78 +229,146 @@
       "streamTimerEnabled": false,
       "links": [
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (fastly_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (amazon_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (akamai_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (cloudfront_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (fastly_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (amazon_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (akamai_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (cloudfront_server1)",
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794661329794
@@ -267,78 +403,146 @@
       "streamTimerEnabled": false,
       "links": [
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (fastly_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (amazon_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (akamai_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (cloudfront_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (fastly_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (amazon_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (akamai_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         },
         {
-          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (cloudfront_server1)",
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
           "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Womens Big Bash League 2026 - 22nd Match - Perth Scorchers Women vs Adelaide Strikers Women (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2f9zqcry51/out/v1/163efa3f1c454662865b51b74c98ebac/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "drmScheme": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794661344819

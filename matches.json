@@ -1,15 +1,17 @@
 {
   "category_visibility": {
     "Cricket": true,
-    "IPL": true,
+    "IPL": false,
     "Football": false,
     "Others": true
   },
   "sub_categories": {
     "Cricket": {},
     "IPL": {},
-    "Football": {}
+    "Football": {},
+    "Others": {}
   },
   "matches": [],
-  "deleted_matches": []
+  "deleted_matches": [],
+  "stream_sources": []
 }

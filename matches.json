@@ -33,7 +33,7 @@
       "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "visible": false,
+      "visible": true,
       "serversVisible": true,
       "links": [
         {

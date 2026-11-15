@@ -1385,6 +1385,692 @@
       "_isAutoFeedMatch": true
     },
     {
+      "id": "B0HQ6TRM38",
+      "fb_key": "gh_1794740089287_1",
+      "_dbSource": "github",
+      "sourceId": "src_1794739841837_2eml6",
+      "sourceMatchId": "B0HQ6TRM38",
+      "_isAutoFeedMatch": true,
+      "cat": "Football",
+      "sub_cat": "Australia vs. England",
+      "t1": "Australia",
+      "t2": "England",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Australia vs. England LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/au.png",
+      "t2_img": "https://flagcdn.com/w160/gb-eng.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.654da556-d9a1-48e3-8199-a9b381ad6019/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "status": "live",
+      "time": "9 AM BDT",
+      "timezone": "Asia/Kolkata",
+      "pos": 9,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "Australia vs. England (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        }
+      ],
+      "servers": [
+        {
+          "name": "Australia vs. England (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Australia vs. England (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        }
+      ],
+      "_createdLocally": 1794740089287
+    },
+    {
+      "id": "B0HRNBGJB1",
+      "fb_key": "gh_1794740156327_3",
+      "_dbSource": "github",
+      "sourceId": "src_1794739841837_2eml6",
+      "sourceMatchId": "B0HRNBGJB1",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "t1": "South Africa",
+      "t2": "Bangladesh",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/za.png",
+      "t2_img": "https://flagcdn.com/w160/bd.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "status": "live",
+      "time": "1:30 PM BDT",
+      "timezone": "Asia/Kolkata",
+      "pos": 10,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        }
+      ],
+      "servers": [
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "dash",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        }
+      ],
+      "_createdLocally": 1794740156327
+    },
+    {
+      "id": "network_src_1794739825590_w03hb",
+      "cat": "Cricket",
+      "sub_cat": "Channel Network",
+      "t1": "sony",
+      "t2": "N",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+      "links": [
+        {
+          "name": "SET HD BROWSERPLAY · Entertainment",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794765324~acl%3D%2F*~id%3D34201922784813798228737943493543~hmac%3D19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony SAB HD BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Marathi BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Pal BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Aath BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Yay BROWSERPLAY · Kids",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony MAX HD BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony MAX BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony MAX 2 BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony WAH BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony PIX HD BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Ten 1 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Ten 1 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony Ten 2 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony Ten 2 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony Ten 3 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony Ten 3 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony Ten 4 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony Ten 4 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Ten 4 Kannada BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony Ten 5 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony Ten 5 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "BBC Earth HD BROWSERPLAY · Infotainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        }
+      ],
+      "servers": [
+        {
+          "name": "SET HD BROWSERPLAY · Entertainment",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794765324~acl%3D%2F*~id%3D34201922784813798228737943493543~hmac%3D19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony SAB HD BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Marathi BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Pal BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Aath BROWSERPLAY · Entertainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Yay BROWSERPLAY · Kids",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony MAX HD BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony MAX BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony MAX 2 BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony WAH BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony PIX HD BROWSERPLAY · Movies",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Ten 1 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Ten 1 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony Ten 2 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony Ten 2 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony Ten 3 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony Ten 3 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony Ten 4 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony Ten 4 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Ten 4 Kannada BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony Ten 5 HD BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony Ten 5 BROWSERPLAY · Sports",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "BBC Earth HD BROWSERPLAY · Infotainment",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        }
+      ],
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "timezone": "Asia/Calcutta",
+      "autoFinishTime": "",
+      "pos": 7,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "network_src_1794739825590_w03hb",
+      "_isAutoFeedMatch": true,
+      "_createdLocally": 1794742012536
+    }
+  ],
+  "deleted_matches": [
+    {
       "id": "network_src_1794739811501_3nw9e",
       "fb_key": "network_src_1794739811501_3nw9e",
       "_dbSource": "github",
@@ -1409,7 +2095,7 @@
       "isOthers": false,
       "status": "live",
       "time": "",
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "links": [
         {
@@ -2337,691 +3023,6 @@
       ],
       "pos": 8,
       "_createdLocally": 1794739987342
-    },
-    {
-      "id": "B0HQ6TRM38",
-      "fb_key": "gh_1794740089287_1",
-      "_dbSource": "github",
-      "sourceId": "src_1794739841837_2eml6",
-      "sourceMatchId": "B0HQ6TRM38",
-      "_isAutoFeedMatch": true,
-      "cat": "Football",
-      "sub_cat": "Australia vs. England",
-      "t1": "Australia",
-      "t2": "England",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Australia vs. England LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/au.png",
-      "t2_img": "https://flagcdn.com/w160/gb-eng.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.654da556-d9a1-48e3-8199-a9b381ad6019/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "status": "live",
-      "time": "9 AM BDT",
-      "timezone": "Asia/Kolkata",
-      "pos": 9,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "Australia vs. England (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "servers": [
-        {
-          "name": "Australia vs. England (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Australia vs. England (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "_createdLocally": 1794740089287
-    },
-    {
-      "id": "B0HRNBGJB1",
-      "fb_key": "gh_1794740156327_3",
-      "_dbSource": "github",
-      "sourceId": "src_1794739841837_2eml6",
-      "sourceMatchId": "B0HRNBGJB1",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "t1": "South Africa",
-      "t2": "Bangladesh",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/za.png",
-      "t2_img": "https://flagcdn.com/w160/bd.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "status": "live",
-      "time": "1:30 PM BDT",
-      "timezone": "Asia/Kolkata",
-      "pos": 10,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "servers": [
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "_createdLocally": 1794740156327
-    },
-    {
-      "id": "network_src_1794739825590_w03hb",
-      "cat": "Cricket",
-      "sub_cat": "Channel Network",
-      "t1": "sony",
-      "t2": "N",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "",
-      "innings": "",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
-      "links": [
-        {
-          "name": "SET HD BROWSERPLAY · Entertainment",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794765324~acl%3D%2F*~id%3D34201922784813798228737943493543~hmac%3D19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sony SAB HD BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sony Marathi BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sony Pal BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sony Aath BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sony Yay BROWSERPLAY · Kids",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sony MAX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sony MAX BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sony MAX 2 BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sony WAH BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        },
-        {
-          "name": "Sony PIX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 11
-        },
-        {
-          "name": "Sony Ten 1 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 12
-        },
-        {
-          "name": "Sony Ten 1 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 13
-        },
-        {
-          "name": "Sony Ten 2 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 14
-        },
-        {
-          "name": "Sony Ten 2 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 15
-        },
-        {
-          "name": "Sony Ten 3 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 16
-        },
-        {
-          "name": "Sony Ten 3 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 17
-        },
-        {
-          "name": "Sony Ten 4 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 18
-        },
-        {
-          "name": "Sony Ten 4 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 19
-        },
-        {
-          "name": "Ten 4 Kannada BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 20
-        },
-        {
-          "name": "Sony Ten 5 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 21
-        },
-        {
-          "name": "Sony Ten 5 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 22
-        },
-        {
-          "name": "BBC Earth HD BROWSERPLAY · Infotainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 23
-        }
-      ],
-      "servers": [
-        {
-          "name": "SET HD BROWSERPLAY · Entertainment",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794765324~acl%3D%2F*~id%3D34201922784813798228737943493543~hmac%3D19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sony SAB HD BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sony Marathi BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sony Pal BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sony Aath BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sony Yay BROWSERPLAY · Kids",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sony MAX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sony MAX BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sony MAX 2 BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sony WAH BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        },
-        {
-          "name": "Sony PIX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 11
-        },
-        {
-          "name": "Sony Ten 1 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 12
-        },
-        {
-          "name": "Sony Ten 1 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 13
-        },
-        {
-          "name": "Sony Ten 2 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 14
-        },
-        {
-          "name": "Sony Ten 2 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 15
-        },
-        {
-          "name": "Sony Ten 3 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 16
-        },
-        {
-          "name": "Sony Ten 3 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 17
-        },
-        {
-          "name": "Sony Ten 4 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 18
-        },
-        {
-          "name": "Sony Ten 4 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 19
-        },
-        {
-          "name": "Ten 4 Kannada BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 20
-        },
-        {
-          "name": "Sony Ten 5 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 21
-        },
-        {
-          "name": "Sony Ten 5 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 22
-        },
-        {
-          "name": "BBC Earth HD BROWSERPLAY · Infotainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 23
-        }
-      ],
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "timezone": "Asia/Calcutta",
-      "autoFinishTime": "",
-      "pos": 7,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "network_src_1794739825590_w03hb",
-      "_isAutoFeedMatch": true,
-      "_createdLocally": 1794742012536
     }
-  ],
-  "deleted_matches": []
+  ]
 }

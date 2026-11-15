@@ -132,51 +132,6 @@
           "drmProtected": true,
           "drmSystem": "",
           "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 9
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 10
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 11
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 12
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 13
         }
       ],
       "isLive": true,
@@ -282,51 +237,6 @@
           "drmProtected": true,
           "drmSystem": "",
           "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 9
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 10
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 11
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 12
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 13
         }
       ],
       "sourceId": "src_1794739841837_2eml6",
@@ -365,94 +275,134 @@
         {
           "name": "Australia vs. England (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Australia vs. England (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Australia vs. England (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi/out/v1/283922b4b56f4887976f2b53ac7aacdc/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794742217205
@@ -489,94 +439,134 @@
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794742237519
@@ -613,94 +603,134 @@
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794742257822

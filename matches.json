@@ -1391,14 +1391,14 @@
         {
           "name": "English",
           "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
-          "visible": true,
+          "visible": false,
           "isBrowser": false,
           "pos": 999
         },
         {
           "name": "Hindi",
           "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
-          "visible": true,
+          "visible": false,
           "isBrowser": false,
           "pos": 999
         },
@@ -1424,7 +1424,7 @@
       "streamTimerStartedAt": null,
       "_dbSource": "github",
       "fb_key": "gh_1794709442601",
-      "_createdLocally": 1794709913550
+      "_createdLocally": 1794721218200
     }
   ],
   "deleted_matches": []

@@ -31,219 +31,6 @@
   },
   "matches": [
     {
-      "id": "1794709442601",
-      "cat": "Cricket",
-      "sub_cat": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India",
-      "selected_match_id": "",
-      "assigned_api_key": "",
-      "scoreUrl": "",
-      "t1": "New Zealand",
-      "t2": "India",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/in.png",
-      "t2_img": "https://flagcdn.com/w160/nz.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d150b96-e992-43cb-96a8-e4e4b5c08847/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "links": [
-        {
-          "name": "English",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
-          "visible": false,
-          "isBrowser": false,
-          "pos": 999
-        },
-        {
-          "name": "Hindi",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
-          "visible": false,
-          "isBrowser": false,
-          "pos": 999
-        },
-        {
-          "name": "Telugu",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794724550~acl%3D%2F*~id%3D85155688669791631950556982450218~hmac%3D98e205833993c7edb6f5eff8825edf0caa68ad16322128923e6a0f5b6e66d961",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 999
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 6,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 7,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 8,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "7:30 AM BDT",
-      "finishedDate": "",
-      "othersText": "",
-      "pos": 1,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "gh_1794709442601",
-      "_createdLocally": 1794739132355,
-      "status": "live",
-      "timezone": "Asia/Kolkata",
-      "servers": [
-        {
-          "name": "English",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
-          "visible": false,
-          "isBrowser": false,
-          "pos": 999
-        },
-        {
-          "name": "Hindi",
-          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
-          "visible": false,
-          "isBrowser": false,
-          "pos": 999
-        },
-        {
-          "name": "Telugu",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794724550~acl%3D%2F*~id%3D85155688669791631950556982450218~hmac%3D98e205833993c7edb6f5eff8825edf0caa68ad16322128923e6a0f5b6e66d961",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 999
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 6,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 7,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 8,
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "sourceId": "src_1794739841837_2eml6",
-      "sourceMatchId": "B0HMLW19GT",
-      "_isAutoFeedMatch": true
-    },
-    {
       "id": "B0HQ6TRM38",
       "fb_key": "gh_1794742217205_1",
       "_dbSource": "github",
@@ -734,6 +521,82 @@
         }
       ],
       "_createdLocally": 1794742257822
+    },
+    {
+      "id": "1794709442601",
+      "cat": "Cricket",
+      "sub_cat": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India",
+      "t1": "New Zealand",
+      "t2": "India",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/in.png",
+      "t2_img": "https://flagcdn.com/w160/nz.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d150b96-e992-43cb-96a8-e4e4b5c08847/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "links": [
+        {
+          "name": "English",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
+          "visible": false,
+          "isBrowser": false,
+          "pos": 999
+        },
+        {
+          "name": "Hindi",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
+          "visible": false,
+          "isBrowser": false,
+          "pos": 999
+        },
+        {
+          "name": "Telugu",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794724550~acl%3D%2F*~id%3D85155688669791631950556982450218~hmac%3D98e205833993c7edb6f5eff8825edf0caa68ad16322128923e6a0f5b6e66d961",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
+        }
+      ],
+      "servers": [
+        {
+          "name": "English",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
+          "visible": false,
+          "isBrowser": false,
+          "pos": 999
+        },
+        {
+          "name": "Hindi",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
+          "visible": false,
+          "isBrowser": false,
+          "pos": 999
+        },
+        {
+          "name": "Telugu",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794724550~acl%3D%2F*~id%3D85155688669791631950556982450218~hmac%3D98e205833993c7edb6f5eff8825edf0caa68ad16322128923e6a0f5b6e66d961",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
+        }
+      ],
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "timezone": "Asia/Calcutta",
+      "autoFinishTime": "",
+      "pos": 1,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794709442601",
+      "_isAutoFeedMatch": true,
+      "_createdLocally": 1794743838971
     }
   ],
   "deleted_matches": []

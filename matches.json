@@ -589,73 +589,38 @@
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 4,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 9
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 5,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 10
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 6,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 6
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 7,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 999
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 8,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 999
         }
       ],
       "servers": [
@@ -682,82 +647,47 @@
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 4,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 9
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 5,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 10
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 6,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 6
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 7,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 999
         },
         {
           "name": "India tour of New Zealand 2026 - 5th ODI - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "dash",
-          "sourceManaged": true,
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd|drmLicense=3a4e1c0452e8620aa47a64c82b81f90d%3Af11223850b04db47d8815871e6b77d05",
           "visible": true,
-          "pos": 8,
-          "drm_key": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "isBrowser": false,
+          "pos": 999
         }
       ],
       "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "time": "7:30 AM BDT",
-      "timezone": "Asia/Kolkata",
+      "time": "",
+      "timezone": "Asia/Calcutta",
       "autoFinishTime": "",
-      "pos": 1,
+      "pos": 999,
       "visible": true,
       "serversVisible": true,
       "streamTimerEnabled": false,
@@ -766,10 +696,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794709442601",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794743838971,
-      "sourceId": "src_1794739841837_2eml6",
-      "sourceMatchId": "B0HMLW19GT",
-      "status": "live"
+      "_createdLocally": 1794744633186
     }
   ],
   "deleted_matches": []

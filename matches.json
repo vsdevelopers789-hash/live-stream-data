@@ -1401,6 +1401,13 @@
           "visible": true,
           "isBrowser": false,
           "pos": 999
+        },
+        {
+          "name": "Telugu",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794724550~acl%3D%2F*~id%3D85155688669791631950556982450218~hmac%3D98e205833993c7edb6f5eff8825edf0caa68ad16322128923e6a0f5b6e66d961",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
         }
       ],
       "isLive": true,
@@ -1417,7 +1424,7 @@
       "streamTimerStartedAt": null,
       "_dbSource": "github",
       "fb_key": "gh_1794709442601",
-      "_createdLocally": 1794709705327
+      "_createdLocally": 1794709913550
     }
   ],
   "deleted_matches": []

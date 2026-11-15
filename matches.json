@@ -1,23 +1,4 @@
 {
-  "cloudflare_matches": [],
-  "cloudflare_deleted_matches": [],
-  "stream_sources": [
-    {
-      "id": "src_1794659879201_wfp6b",
-      "label": "Sony Network",
-      "url": "https://pastefy.app/6wOwFjlG/raw"
-    },
-    {
-      "id": "src_1794660059949_a7wwz",
-      "label": "willow",
-      "url": "https://raw.githubusercontent.com/ARYANBHAIcool/aryanstreams2/main/data/willow.json?_=1794287007254"
-    },
-    {
-      "id": "src_1794709292671_ozvqv",
-      "label": "Aaryan",
-      "url": "https://aryanstreams.pages.dev/data/sony_m3u8.json?t=1794279938700"
-    }
-  ],
   "category_visibility": {
     "Cricket": true,
     "IPL": true,
@@ -1391,6 +1372,54 @@
       "fb_key": "gh_1794661308041_0",
       "_isAutoFeedMatch": true,
       "_createdLocally": 1794664724614
+    },
+    {
+      "id": "1794709442601",
+      "cat": "Cricket",
+      "sub_cat": "ODI INDIA TOUR OF NEW ZEALAND 2026",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "scoreUrl": "",
+      "t1": "India",
+      "t2": "New Zealand",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "innings": "",
+      "t1_img": "https://flagcdn.com/w160/in.png",
+      "t2_img": "https://flagcdn.com/w160/nz.png",
+      "card": "",
+      "links": [
+        {
+          "name": "English",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
+        },
+        {
+          "name": "Hindi",
+          "url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_mdd-600300010.m3u8?hdnea=exp=1794736809~acl=/*~id=53032922930588418399021164665838~hmac=6cae9daefa125e2712b91a2476c0f8c089e216344422e4d2112e4dcbef6499a1",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
+        }
+      ],
+      "isLive": false,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "othersText": "",
+      "pos": 999,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794709442601",
+      "_createdLocally": 1794709442601
     }
   ],
   "deleted_matches": []

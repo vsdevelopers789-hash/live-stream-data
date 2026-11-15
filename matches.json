@@ -1303,6 +1303,13 @@
           "visible": true,
           "isBrowser": false,
           "pos": 999
+        },
+        {
+          "name": "Fancode",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
         }
       ],
       "servers": [
@@ -1347,6 +1354,13 @@
           "visible": true,
           "isBrowser": false,
           "pos": 999
+        },
+        {
+          "name": "Fancode",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 999
         }
       ],
       "isLive": true,
@@ -1364,7 +1378,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794742217205_1",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794749968393
+      "_createdLocally": 1794750608465
     }
   ],
   "deleted_matches": []

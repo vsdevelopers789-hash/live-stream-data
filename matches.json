@@ -2189,6 +2189,960 @@
       ],
       "pos": 7,
       "_createdLocally": 1794739913511
+    },
+    {
+      "id": "network_src_1794739811501_3nw9e",
+      "fb_key": "network_src_1794739811501_3nw9e",
+      "_dbSource": "github",
+      "_isAutoFeedMatch": true,
+      "isChannelCard": true,
+      "isNetworkCard": true,
+      "sourceId": "src_1794739811501_3nw9e",
+      "sourceLabel": "Aryan",
+      "channelName": "Aryan",
+      "title": "Aryan",
+      "channelLogo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+      "card": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+      "cat": "Others",
+      "sub_cat": "Channel Network",
+      "groupTitle": "Others",
+      "t1": "Aryan",
+      "t2": "",
+      "t1_img": "",
+      "t2_img": "",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "status": "live",
+      "time": "",
+      "visible": true,
+      "serversVisible": true,
+      "links": [
+        {
+          "id": "src_1794739811501_3nw9e:set-hd:server",
+          "name": "SET HD BROWSERPLAY",
+          "channelName": "SET HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "channelId": "set-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:sab-hd:server",
+          "name": "Sony SAB HD BROWSERPLAY",
+          "channelName": "Sony SAB HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/LhKxf97t/sonysabhd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "channelId": "sab-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:marathi:server",
+          "name": "Sony Marathi BROWSERPLAY",
+          "channelName": "Sony Marathi BROWSERPLAY",
+          "logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "channelId": "marathi"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:pal:server",
+          "name": "Sony Pal BROWSERPLAY",
+          "channelName": "Sony Pal BROWSERPLAY",
+          "logo": "https://i.postimg.cc/hjYyDb13/sonypal.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "channelId": "pal"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:aath:server",
+          "name": "Sony Aath BROWSERPLAY",
+          "channelName": "Sony Aath BROWSERPLAY",
+          "logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "channelId": "aath"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:yay:server",
+          "name": "Sony Yay BROWSERPLAY",
+          "channelName": "Sony Yay BROWSERPLAY",
+          "logo": "https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6,
+          "channelId": "yay"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:max-hd:server",
+          "name": "Sony MAX HD BROWSERPLAY",
+          "channelName": "Sony MAX HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 7,
+          "channelId": "max-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:max:server",
+          "name": "Sony MAX BROWSERPLAY",
+          "channelName": "Sony MAX BROWSERPLAY",
+          "logo": "https://i.postimg.cc/43JFB33w/sonymax.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 8,
+          "channelId": "max"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:max2:server",
+          "name": "Sony MAX 2 BROWSERPLAY",
+          "channelName": "Sony MAX 2 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/vm32jdgy/sonymax2.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 9,
+          "channelId": "max2"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:wah:server",
+          "name": "Sony WAH BROWSERPLAY",
+          "channelName": "Sony WAH BROWSERPLAY",
+          "logo": "https://i.postimg.cc/HxJG9LSR/sonywah.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 10,
+          "channelId": "wah"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:pix-hd:server",
+          "name": "Sony PIX HD BROWSERPLAY",
+          "channelName": "Sony PIX HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 11,
+          "channelId": "pix-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten1-hd:server",
+          "name": "Sony Ten 1 HD BROWSERPLAY",
+          "channelName": "Sony Ten 1 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 12,
+          "channelId": "ten1-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten1:server",
+          "name": "Sony Ten 1 BROWSERPLAY",
+          "channelName": "Sony Ten 1 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 13,
+          "channelId": "ten1"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten2-hd:server",
+          "name": "Sony Ten 2 HD BROWSERPLAY",
+          "channelName": "Sony Ten 2 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 14,
+          "channelId": "ten2-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten2:server",
+          "name": "Sony Ten 2 BROWSERPLAY",
+          "channelName": "Sony Ten 2 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/027s4b8q/sonysportsten2.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 15,
+          "channelId": "ten2"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten3-hd:server",
+          "name": "Sony Ten 3 HD BROWSERPLAY",
+          "channelName": "Sony Ten 3 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 16,
+          "channelId": "ten3-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten3:server",
+          "name": "Sony Ten 3 BROWSERPLAY",
+          "channelName": "Sony Ten 3 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 17,
+          "channelId": "ten3"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten4-hd:server",
+          "name": "Sony Ten 4 HD BROWSERPLAY",
+          "channelName": "Sony Ten 4 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 18,
+          "channelId": "ten4-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten4:server",
+          "name": "Sony Ten 4 BROWSERPLAY",
+          "channelName": "Sony Ten 4 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 19,
+          "channelId": "ten4"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten4-kannada:server",
+          "name": "Ten 4 Kannada BROWSERPLAY",
+          "channelName": "Ten 4 Kannada BROWSERPLAY",
+          "logo": "https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/340?cb=20260819101512",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 20,
+          "channelId": "ten4-kannada"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten5-hd:server",
+          "name": "Sony Ten 5 HD BROWSERPLAY",
+          "channelName": "Sony Ten 5 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 21,
+          "channelId": "ten5-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten5:server",
+          "name": "Sony Ten 5 BROWSERPLAY",
+          "channelName": "Sony Ten 5 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 22,
+          "channelId": "ten5"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:bbc-earth:server",
+          "name": "BBC Earth HD BROWSERPLAY",
+          "channelName": "BBC Earth HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 23,
+          "channelId": "bbc-earth"
+        }
+      ],
+      "servers": [
+        {
+          "id": "src_1794739811501_3nw9e:set-hd:server",
+          "name": "SET HD BROWSERPLAY",
+          "channelName": "SET HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "channelId": "set-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:sab-hd:server",
+          "name": "Sony SAB HD BROWSERPLAY",
+          "channelName": "Sony SAB HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/LhKxf97t/sonysabhd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "channelId": "sab-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:marathi:server",
+          "name": "Sony Marathi BROWSERPLAY",
+          "channelName": "Sony Marathi BROWSERPLAY",
+          "logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "channelId": "marathi"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:pal:server",
+          "name": "Sony Pal BROWSERPLAY",
+          "channelName": "Sony Pal BROWSERPLAY",
+          "logo": "https://i.postimg.cc/hjYyDb13/sonypal.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "channelId": "pal"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:aath:server",
+          "name": "Sony Aath BROWSERPLAY",
+          "channelName": "Sony Aath BROWSERPLAY",
+          "logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "channelId": "aath"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:yay:server",
+          "name": "Sony Yay BROWSERPLAY",
+          "channelName": "Sony Yay BROWSERPLAY",
+          "logo": "https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6,
+          "channelId": "yay"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:max-hd:server",
+          "name": "Sony MAX HD BROWSERPLAY",
+          "channelName": "Sony MAX HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 7,
+          "channelId": "max-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:max:server",
+          "name": "Sony MAX BROWSERPLAY",
+          "channelName": "Sony MAX BROWSERPLAY",
+          "logo": "https://i.postimg.cc/43JFB33w/sonymax.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 8,
+          "channelId": "max"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:max2:server",
+          "name": "Sony MAX 2 BROWSERPLAY",
+          "channelName": "Sony MAX 2 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/vm32jdgy/sonymax2.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 9,
+          "channelId": "max2"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:wah:server",
+          "name": "Sony WAH BROWSERPLAY",
+          "channelName": "Sony WAH BROWSERPLAY",
+          "logo": "https://i.postimg.cc/HxJG9LSR/sonywah.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 10,
+          "channelId": "wah"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:pix-hd:server",
+          "name": "Sony PIX HD BROWSERPLAY",
+          "channelName": "Sony PIX HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 11,
+          "channelId": "pix-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten1-hd:server",
+          "name": "Sony Ten 1 HD BROWSERPLAY",
+          "channelName": "Sony Ten 1 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 12,
+          "channelId": "ten1-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten1:server",
+          "name": "Sony Ten 1 BROWSERPLAY",
+          "channelName": "Sony Ten 1 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 13,
+          "channelId": "ten1"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten2-hd:server",
+          "name": "Sony Ten 2 HD BROWSERPLAY",
+          "channelName": "Sony Ten 2 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 14,
+          "channelId": "ten2-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten2:server",
+          "name": "Sony Ten 2 BROWSERPLAY",
+          "channelName": "Sony Ten 2 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/027s4b8q/sonysportsten2.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 15,
+          "channelId": "ten2"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten3-hd:server",
+          "name": "Sony Ten 3 HD BROWSERPLAY",
+          "channelName": "Sony Ten 3 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 16,
+          "channelId": "ten3-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten3:server",
+          "name": "Sony Ten 3 BROWSERPLAY",
+          "channelName": "Sony Ten 3 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 17,
+          "channelId": "ten3"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten4-hd:server",
+          "name": "Sony Ten 4 HD BROWSERPLAY",
+          "channelName": "Sony Ten 4 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 18,
+          "channelId": "ten4-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten4:server",
+          "name": "Sony Ten 4 BROWSERPLAY",
+          "channelName": "Sony Ten 4 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 19,
+          "channelId": "ten4"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten4-kannada:server",
+          "name": "Ten 4 Kannada BROWSERPLAY",
+          "channelName": "Ten 4 Kannada BROWSERPLAY",
+          "logo": "https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/340?cb=20260819101512",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 20,
+          "channelId": "ten4-kannada"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten5-hd:server",
+          "name": "Sony Ten 5 HD BROWSERPLAY",
+          "channelName": "Sony Ten 5 HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 21,
+          "channelId": "ten5-hd"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:ten5:server",
+          "name": "Sony Ten 5 BROWSERPLAY",
+          "channelName": "Sony Ten 5 BROWSERPLAY",
+          "logo": "https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 22,
+          "channelId": "ten5"
+        },
+        {
+          "id": "src_1794739811501_3nw9e:bbc-earth:server",
+          "name": "BBC Earth HD BROWSERPLAY",
+          "channelName": "BBC Earth HD BROWSERPLAY",
+          "logo": "https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+            "Referrer": "https://www.sonyliv.com/",
+            "Origin": "https://www.sonyliv.com",
+            "Cookie": "hdnea=exp=1794778804~acl=/*~id=05681887303599197020436645929171~hmac=4773e8ae18ae8a52b0a118ce5e1f9dc9d5a95f302ada72f07660c3e6b4a8c4d8",
+            "Referer": "https://www.sonyliv.com/"
+          },
+          "isBrowser": false,
+          "playerType": "hls",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 23,
+          "channelId": "bbc-earth"
+        }
+      ],
+      "pos": 8,
+      "_createdLocally": 1794739987342
     }
   ],
   "deleted_matches": []

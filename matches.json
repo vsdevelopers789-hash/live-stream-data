@@ -1016,8 +1016,8 @@
           "pos": 5
         }
       ],
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isOthers": false,
       "time": "",
       "timezone": "Asia/Calcutta",
@@ -1031,7 +1031,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794818549133_0",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794831007836
+      "_createdLocally": 1794849952898
     }
   ],
   "deleted_matches": []

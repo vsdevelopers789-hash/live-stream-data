@@ -1238,149 +1238,229 @@
       "links": [
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 6
+          "pos": 6,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 7
+          "pos": 7,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 8
+          "pos": 8,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 6
+          "pos": 6,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 7
+          "pos": 7,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd|drmLicense=6597902f04582f5e30cf281d4d86cecb%3A85d06b34717eae4d10f7a52abdeafe97",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ianwqwv9ok/out/v1/1a443090f90b4b9f8904ba0e6ad44e40/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 8
+          "pos": 8,
+          "drm_key": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794849672820
@@ -1416,95 +1496,145 @@
       "links": [
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|drmLicense=8f6af65e6fd5fe9b2fa7510de69e492a%3A61921d1e73c2f0870d3f3e7d09f8bbb6",
-          "playerType": "dash",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794849682493

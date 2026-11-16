@@ -1,5 +1,6 @@
 {
-  "cloudflare_matches": [
+  "cloudflare_matches": [],
+  "cloudflare_deleted_matches": [
     {
       "id": "B0HQSGBK9J",
       "fb_key": "cw_1794849453058_0",
@@ -25,7 +26,7 @@
       "time": "10 PM BDT",
       "timezone": "Asia/Kolkata",
       "pos": 4,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -175,7 +176,6 @@
       "_createdLocally": 1794849453058
     }
   ],
-  "cloudflare_deleted_matches": [],
   "stream_sources": [
     {
       "id": "src_1794739811501_3nw9e",

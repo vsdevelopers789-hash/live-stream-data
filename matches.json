@@ -31,95 +31,145 @@
       "links": [
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd|drmLicense=eee1d2e4356d92d478fe04f24d3f34f7%3Ab5d5b65cfc1e342bbfb30101b46fc531",
-          "playerType": "dash",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794849453058

@@ -66,6 +66,11 @@
       "id": "src_1794934985690_eu2gr",
       "label": "All In One",
       "url": "https://sonujson-v6.pages.dev/Data/events/allinone.json"
+    },
+    {
+      "id": "src_1794935691924_dl4bl",
+      "label": "Aryan Sports",
+      "url": "https://aryanstreamspro.pages.dev/api/sports"
     }
   ],
   "category_visibility": {

@@ -753,285 +753,6 @@
       ],
       "pos": 2,
       "_createdLocally": 1794790971835
-    },
-    {
-      "id": "B0HP83ZWBB",
-      "cat": "Cricket",
-      "sub_cat": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
-      "t1": "Afghanistan",
-      "t2": "Zimbabwe in UAE 2026",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/af.png",
-      "t2_img": "https://flagcdn.com/w160/zw.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "links": [
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        }
-      ],
-      "servers": [
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        }
-      ],
-      "isLive": false,
-      "isFinished": true,
-      "isOthers": false,
-      "time": "",
-      "timezone": "Asia/Calcutta",
-      "autoFinishTime": "",
-      "pos": 1,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "gh_1794818549133_0",
-      "_isAutoFeedMatch": true,
-      "_createdLocally": 1794849952898
-    },
-    {
-      "id": "B0HRNBGJB1",
-      "fb_key": "gh_1794852069352_1",
-      "_dbSource": "github",
-      "sourceId": "src_1794739841837_2eml6",
-      "sourceMatchId": "B0HRNBGJB1",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
-      "t1": "South Africa",
-      "t2": "Bangladesh",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/za.png",
-      "t2_img": "https://flagcdn.com/w160/bd.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "status": "live",
-      "time": "1:30 PM BDT",
-      "timezone": "Asia/Kolkata",
-      "pos": 4,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "servers": [
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "_createdLocally": 1794852069352,
-      "score": null
     }
   ],
   "deleted_matches": [
@@ -2990,6 +2711,285 @@
         }
       ],
       "_createdLocally": 1794910665648
+    },
+    {
+      "id": "B0HP83ZWBB",
+      "cat": "Cricket",
+      "sub_cat": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
+      "t1": "Afghanistan",
+      "t2": "Zimbabwe in UAE 2026",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/af.png",
+      "t2_img": "https://flagcdn.com/w160/zw.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "links": [
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        }
+      ],
+      "servers": [
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4lr05kckme/out/v1/e638e6137d3444268fc8160097116ca6/cenc.mpd|drmLicense=b6745cf86849992016a18fa701bbe4c7%3A1868048f6a964c749f14fb2fc26788f4",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        }
+      ],
+      "isLive": false,
+      "isFinished": true,
+      "isOthers": false,
+      "time": "",
+      "timezone": "Asia/Calcutta",
+      "autoFinishTime": "",
+      "pos": 1,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794818549133_0",
+      "_isAutoFeedMatch": true,
+      "_createdLocally": 1794849952898
+    },
+    {
+      "id": "B0HRNBGJB1",
+      "fb_key": "gh_1794852069352_1",
+      "_dbSource": "github",
+      "sourceId": "src_1794739841837_2eml6",
+      "sourceMatchId": "B0HRNBGJB1",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
+      "t1": "South Africa",
+      "t2": "Bangladesh",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/za.png",
+      "t2_img": "https://flagcdn.com/w160/bd.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "status": "live",
+      "time": "1:30 PM BDT",
+      "timezone": "Asia/Kolkata",
+      "pos": 4,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        }
+      ],
+      "servers": [
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        },
+        {
+          "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hprkqhtdlv/out/v1/7aa42b34cf6d4ec1b3fa841404c162d6/cenc.mpd|drmLicense=6edfcab8821c7437717ab9c94300a8a0%3A1dc141c8ac131a68bd1c445acfdc673c",
+          "headers": {},
+          "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5,
+          "drm_key": "6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
+        }
+      ],
+      "_createdLocally": 1794852069352,
+      "score": null
     }
   ]
 }

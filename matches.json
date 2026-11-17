@@ -51,6 +51,11 @@
       "id": "src_1794923292875_qz2qb",
       "label": "Sony Sports",
       "url": "https://raw.githubusercontent.com/kajju027/SonyLiv-Events-Json/refs/heads/main/sonyliv.json?t=1794921957903"
+    },
+    {
+      "id": "src_1794923444154_ql600",
+      "label": "News Feed",
+      "url": "https://asppv.pages.dev/news/data.json"
     }
   ],
   "category_visibility": {

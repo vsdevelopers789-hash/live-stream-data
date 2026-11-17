@@ -848,7 +848,7 @@
       "timezone": "Asia/Calcutta",
       "autoFinishTime": "",
       "pos": 1,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,
@@ -1030,7 +1030,8 @@
           "licenseUrl": ""
         }
       ],
-      "_createdLocally": 1794852069352
+      "_createdLocally": 1794852069352,
+      "score": null
     },
     {
       "id": "B0HKZY847Z",
@@ -1344,7 +1345,8 @@
           "licenseUrl": ""
         }
       ],
-      "_createdLocally": 1794910414520
+      "_createdLocally": 1794910414520,
+      "score": null
     },
     {
       "id": "B0HP83ZWBB",
@@ -1518,7 +1520,8 @@
           "licenseUrl": ""
         }
       ],
-      "_createdLocally": 1794910438001
+      "_createdLocally": 1794910438001,
+      "score": null
     },
     {
       "id": "B0HRNBGJB1",
@@ -1692,7 +1695,8 @@
           "licenseUrl": ""
         }
       ],
-      "_createdLocally": 1794910452001
+      "_createdLocally": 1794910452001,
+      "score": null
     },
     {
       "id": "B0HKV1DFSC",
@@ -2006,7 +2010,8 @@
           "licenseUrl": ""
         }
       ],
-      "_createdLocally": 1794910467176
+      "_createdLocally": 1794910467176,
+      "score": null
     }
   ],
   "deleted_matches": []

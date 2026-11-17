@@ -1605,8 +1605,24 @@
       "t2_img": "",
       "card": "",
       "drm_key": "",
-      "links": [],
-      "servers": [],
+      "links": [
+        {
+          "name": "TEST",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd?|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        }
+      ],
+      "servers": [
+        {
+          "name": "TEST",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd?|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        }
+      ],
       "isLive": false,
       "isFinished": false,
       "isOthers": false,
@@ -1622,7 +1638,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794917936315",
       "_isAutoFeedMatch": false,
-      "_createdLocally": 1794917936315
+      "_createdLocally": 1794917956755
     }
   ],
   "deleted_matches": [

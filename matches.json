@@ -46,6 +46,11 @@
       "id": "src_1794922971999_kaxvm",
       "label": "World Sports",
       "url": "https://matchdekho.in/api/world-sports.json?t=1794921957701"
+    },
+    {
+      "id": "src_1794923292875_qz2qb",
+      "label": "Sony Sports",
+      "url": "https://raw.githubusercontent.com/kajju027/SonyLiv-Events-Json/refs/heads/main/sonyliv.json?t=1794921957903"
     }
   ],
   "category_visibility": {

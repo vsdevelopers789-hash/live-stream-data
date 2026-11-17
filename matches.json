@@ -26,6 +26,11 @@
       "id": "src_1794922140089_4rzbr",
       "label": "Football_Sonu",
       "url": "https://sonujson-v7.pages.dev/Data/events/football.json"
+    },
+    {
+      "id": "src_1794922441692_fn188",
+      "label": "Cricket Data",
+      "url": "https://sonujson-v7.pages.dev/Data/events/cricket.json"
     }
   ],
   "category_visibility": {

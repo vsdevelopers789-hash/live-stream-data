@@ -883,7 +883,7 @@
       "time": "1:30 PM BDT",
       "timezone": "Asia/Kolkata",
       "pos": 4,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

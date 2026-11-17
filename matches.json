@@ -1133,95 +1133,145 @@
       "links": [
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd|drmLicense=f780c2f1d5a79df25cbf84c3100ae9db%3A147c4e675e69a128ed783faf67a5b72c",
-          "playerType": "dash",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsiyy3pj1z/out/v1/18e7e922d8f44a768c404c3304bbf8ee/cenc.mpd",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "dash",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "f780c2f1d5a79df25cbf84c3100ae9db:147c4e675e69a128ed783faf67a5b72c",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794916190913

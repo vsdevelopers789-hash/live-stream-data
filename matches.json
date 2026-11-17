@@ -56,6 +56,11 @@
       "id": "src_1794923444154_ql600",
       "label": "News Feed",
       "url": "https://asppv.pages.dev/news/data.json"
+    },
+    {
+      "id": "src_1794923643713_ccoqu",
+      "label": "Hero Sports",
+      "url": "https://asppv.pages.dev/data/hero.json?t=1794922017354"
     }
   ],
   "category_visibility": {

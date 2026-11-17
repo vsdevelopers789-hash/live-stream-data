@@ -61,6 +61,11 @@
       "id": "src_1794923643713_ccoqu",
       "label": "Hero Sports",
       "url": "https://asppv.pages.dev/data/hero.json?t=1794922017354"
+    },
+    {
+      "id": "src_1794934985690_eu2gr",
+      "label": "All In One",
+      "url": "https://sonujson-v6.pages.dev/Data/events/allinone.json"
     }
   ],
   "category_visibility": {

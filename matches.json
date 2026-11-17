@@ -1379,7 +1379,9 @@
         }
       ],
       "_createdLocally": 1794911453865
-    },
+    }
+  ],
+  "deleted_matches": [
     {
       "id": "B0HKV1DFSC",
       "fb_key": "gh_1794911467305_3",
@@ -1405,7 +1407,7 @@
       "time": "1:40 PM BDT",
       "timezone": "Asia/Kolkata",
       "pos": 8,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -1694,6 +1696,5 @@
       ],
       "_createdLocally": 1794911467305
     }
-  ],
-  "deleted_matches": []
+  ]
 }

@@ -41,6 +41,11 @@
       "id": "src_1794922823167_damyl",
       "label": "Fancode",
       "url": "https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/refs/heads/main/fancode.json?t=1794921957644"
+    },
+    {
+      "id": "src_1794922971999_kaxvm",
+      "label": "World Sports",
+      "url": "https://matchdekho.in/api/world-sports.json?t=1794921957701"
     }
   ],
   "category_visibility": {

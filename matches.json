@@ -1720,7 +1720,7 @@
       "time": "",
       "timezone": "Asia/Kolkata",
       "pos": 8,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

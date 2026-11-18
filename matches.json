@@ -1712,184 +1712,284 @@
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server2)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server2)",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 6
+          "pos": 6,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server2)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 7
+          "pos": 7,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server2)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 8
+          "pos": 8,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 9
+          "pos": 9,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Bravo Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 10
+          "pos": 10,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV fastly_server2)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV amazon_server2)",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 6
+          "pos": 6,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV akamai_server2)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 7
+          "pos": 7,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (CnpTV cloudfront_server2)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 8
+          "pos": 8,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 9
+          "pos": 9,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh (Bravo Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd|drmLicense=6de0d161884e8b45e47f4edc5e9db94d%3Abfaccd3662dfb1d046887ecc050a576e",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 10
+          "pos": 10,
+          "drm_key": "6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1794993209515

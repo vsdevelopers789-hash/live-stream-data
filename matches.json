@@ -1696,7 +1696,7 @@
       "t1_score": "",
       "t2_score": "",
       "ticker": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe LIVE",
-      "tickerEnabled": true,
+      "tickerEnabled": false,
       "innings": "LIVE",
       "t1_img": "https://flagcdn.com/w160/af.png",
       "t2_img": "https://flagcdn.com/w160/zw.png",
@@ -1792,7 +1792,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794917401435_1",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794968192613
+      "_createdLocally": 1794968254889
     }
   ],
   "deleted_matches": [

@@ -1582,112 +1582,6 @@
       "_createdLocally": 1794917956755
     },
     {
-      "id": "manual_parse_23",
-      "fb_key": "gh_1794935755895_23",
-      "_dbSource": "github",
-      "sourceId": "src_1794935691924_dl4bl",
-      "sourceMatchId": "manual_parse_23",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "Pakistan Vs Sri Lanka",
-      "t1": "Pakistan",
-      "t2": "Sri Lanka",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Pakistan Vs Sri Lanka LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/pk.png",
-      "t2_img": "https://flagcdn.com/w160/lk.png",
-      "card": "",
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "status": "live",
-      "time": "",
-      "timezone": "Asia/Kolkata",
-      "pos": 8,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 2)",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 3)",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "playerType": "hls",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3
-        },
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 4)",
-          "url": "http://193.47.62.41/hls/RREGEGE.m3u8",
-          "playerType": "hls",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4
-        }
-      ],
-      "servers": [
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1
-        },
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 2)",
-          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
-          "playerType": "dash",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2
-        },
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 3)",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-          "playerType": "hls",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3
-        },
-        {
-          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 4)",
-          "url": "http://193.47.62.41/hls/RREGEGE.m3u8",
-          "playerType": "hls",
-          "isBrowser": false,
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4
-        }
-      ],
-      "_createdLocally": 1794935755895
-    },
-    {
       "id": "B0HP83ZWBB",
       "cat": "Cricket",
       "sub_cat": "Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe",
@@ -1793,6 +1687,99 @@
       "fb_key": "gh_1794917401435_1",
       "_isAutoFeedMatch": true,
       "_createdLocally": 1794968254889
+    },
+    {
+      "id": "manual_parse_23",
+      "cat": "Cricket",
+      "sub_cat": "Pakistan Vs Sri Lanka",
+      "t1": "Pakistan",
+      "t2": "Sri Lanka",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Pakistan Vs Sri Lanka LIVE",
+      "tickerEnabled": false,
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/pk.png",
+      "t2_img": "https://flagcdn.com/w160/lk.png",
+      "card": "",
+      "drm_key": "",
+      "links": [
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 2)",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 3)",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 4)",
+          "url": "http://193.47.62.41/hls/RREGEGE.m3u8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        }
+      ],
+      "servers": [
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 2)",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 3)",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Pakistan Vs Sri Lanka (Streams Streams Server 4)",
+          "url": "http://193.47.62.41/hls/RREGEGE.m3u8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        }
+      ],
+      "isLive": false,
+      "isFinished": true,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "2026-11-18T02:18:37.888Z",
+      "timezone": "Asia/Calcutta",
+      "autoFinishTime": "2026-11-18T01:18:00.000Z",
+      "pos": 8,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794935755895_23",
+      "_isAutoFeedMatch": true,
+      "_createdLocally": 1794968317888
     }
   ],
   "deleted_matches": [

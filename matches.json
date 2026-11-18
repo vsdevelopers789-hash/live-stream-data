@@ -2126,10 +2126,10 @@
           "pos": 8
         }
       ],
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "time": "2026-11-18T11:23:00.000Z",
+      "time": "",
       "finishedDate": "",
       "timezone": "Asia/Calcutta",
       "autoFinishTime": "",
@@ -2142,7 +2142,7 @@
       "_dbSource": "github",
       "fb_key": "gh_1794993470938_2",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794993816555
+      "_createdLocally": 1794994801900
     }
   ],
   "deleted_matches": [

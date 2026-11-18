@@ -1260,7 +1260,7 @@
       "timezone": "Asia/Calcutta",
       "autoFinishTime": "2026-11-18T01:18:00.000Z",
       "pos": 8,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,

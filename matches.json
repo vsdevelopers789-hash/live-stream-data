@@ -2136,13 +2136,13 @@
       "pos": 11,
       "visible": true,
       "serversVisible": true,
-      "streamTimerEnabled": true,
+      "streamTimerEnabled": false,
       "streamTimerDuration": 5,
-      "streamTimerStartedAt": 1794993701066,
+      "streamTimerStartedAt": null,
       "_dbSource": "github",
       "fb_key": "gh_1794993470938_2",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1794993701066
+      "_createdLocally": 1794993751010
     }
   ],
   "deleted_matches": [

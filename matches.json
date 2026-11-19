@@ -682,6 +682,393 @@
       "_createdLocally": 1794968254889
     },
     {
+      "id": "network_src_1794739811501_3nw9e",
+      "cat": "Others",
+      "sub_cat": "Channel Network",
+      "t1": "",
+      "t2": "",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "tickerEnabled": false,
+      "innings": "",
+      "t1_img": "",
+      "t2_img": "",
+      "card": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGpbI5PrNSX3Wn3XdsvcmO6wM9fFDnYuUSjw22l1v-g&s=10",
+      "drm_key": "",
+      "links": [
+        {
+          "name": "Sony Sports 1 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony Sports 1",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Sports 2 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Sports 2",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Sports 3 Hindi HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Sports 3 Hindi",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony Sports 4 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony Sports 4 Telugu",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony Sports 4 Tamil",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony Sports 5 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony Sports 5",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Entertainment Television HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Entertainment Television",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony SAB HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony SAB",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony MAX HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony MAX",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony MAX 2",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony PIX HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Sony BBC Earth HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony PAL",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony WAH",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "Sony YAY !!",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        },
+        {
+          "name": "Sony Marathi !!",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 24
+        },
+        {
+          "name": "Sony AATH",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 25
+        }
+      ],
+      "servers": [
+        {
+          "name": "Sony Sports 1 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sony Sports 1",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sony Sports 2 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sony Sports 2",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sony Sports 3 Hindi HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sony Sports 3 Hindi",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sony Sports 4 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sony Sports 4 Telugu",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sony Sports 4 Tamil",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sony Sports 5 HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        },
+        {
+          "name": "Sony Sports 5",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 11
+        },
+        {
+          "name": "Sony Entertainment Television HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 12
+        },
+        {
+          "name": "Sony Entertainment Television",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 13
+        },
+        {
+          "name": "Sony SAB HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 14
+        },
+        {
+          "name": "Sony SAB",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 15
+        },
+        {
+          "name": "Sony MAX HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 16
+        },
+        {
+          "name": "Sony MAX",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 17
+        },
+        {
+          "name": "Sony MAX 2",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 18
+        },
+        {
+          "name": "Sony PIX HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 19
+        },
+        {
+          "name": "Sony BBC Earth HD",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 20
+        },
+        {
+          "name": "Sony PAL",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 21
+        },
+        {
+          "name": "Sony WAH",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 22
+        },
+        {
+          "name": "Sony YAY !!",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 23
+        },
+        {
+          "name": "Sony Marathi !!",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 24
+        },
+        {
+          "name": "Sony AATH",
+          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1794990906~acl%3D%2F*~id%3D94900233583230519723122952180608~hmac%3D90e5d368c90676e394ad2bdfa8918ed217da34aa7bbb2c088876a5ba825ae6b8",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 25
+        }
+      ],
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "finishedDate": "",
+      "timezone": "Asia/Calcutta",
+      "autoFinishTime": "",
+      "pos": 2,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "network_src_1794739811501_3nw9e",
+      "_isAutoFeedMatch": true,
+      "_createdLocally": 1794979582443
+    },
+    {
       "id": "B0HRNBGJB1",
       "cat": "Cricket",
       "sub_cat": "Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh",
@@ -1838,7 +2225,7 @@
       "isOthers": false,
       "status": "live",
       "time": "",
-      "visible": false,
+      "visible": true,
       "serversVisible": true,
       "links": [
         {
@@ -2987,394 +3374,6 @@
       "fb_key": "gh_1795052269664_0",
       "_isAutoFeedMatch": true,
       "_createdLocally": 1795052789553
-    },
-    {
-      "id": "network_src_1794739811501_3nw9e",
-      "cat": "Others",
-      "sub_cat": "Channel Network",
-      "t1": "",
-      "t2": "",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "",
-      "tickerEnabled": false,
-      "inningsBadgeEnabled": false,
-      "innings": "",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "https://sporush.in/assets/img/d/india-vs-new-zealand-test-series-2026-4d2608fcd5-1200.webp",
-      "drm_key": "",
-      "links": [
-        {
-          "name": "Sony Sports 1 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sony Sports 1",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sony Sports 2 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sony Sports 2",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sony Sports 3 Hindi HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sony Sports 3 Hindi",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sony Sports 4 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sony Sports 4 Telugu",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sony Sports 4 Tamil",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sony Sports 5 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        },
-        {
-          "name": "Sony Sports 5",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 11
-        },
-        {
-          "name": "Sony Entertainment Television HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 12
-        },
-        {
-          "name": "Sony Entertainment Television",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 13
-        },
-        {
-          "name": "Sony SAB HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 14
-        },
-        {
-          "name": "Sony SAB",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 15
-        },
-        {
-          "name": "Sony MAX HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 16
-        },
-        {
-          "name": "Sony MAX",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 17
-        },
-        {
-          "name": "Sony MAX 2",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 18
-        },
-        {
-          "name": "Sony PIX HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 19
-        },
-        {
-          "name": "Sony BBC Earth HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 20
-        },
-        {
-          "name": "Sony PAL",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 21
-        },
-        {
-          "name": "Sony WAH",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 22
-        },
-        {
-          "name": "Sony YAY !!",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 23
-        },
-        {
-          "name": "Sony Marathi !!",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 24
-        },
-        {
-          "name": "Sony AATH",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 25
-        }
-      ],
-      "servers": [
-        {
-          "name": "Sony Sports 1 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011747%2FTEN1HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sony Sports 1",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011739%2FTEN1SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sony Sports 2 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020434%2FTEN2HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sony Sports 2",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020590%2FTEN2SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sony Sports 3 Hindi HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sony Sports 3 Hindi",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020592%2FTEN3SD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sony Sports 4 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sony Sports 4 Telugu",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020589%2Ften4hd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sony Sports 4 Tamil",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020437%2Ften4sd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sony Sports 5 HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020593%2FSONYSIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        },
-        {
-          "name": "Sony Sports 5",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020594%2FSONYSIXSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 11
-        },
-        {
-          "name": "Sony Entertainment Television HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 12
-        },
-        {
-          "name": "Sony Entertainment Television",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011671%2FSETHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 13
-        },
-        {
-          "name": "Sony SAB HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 14
-        },
-        {
-          "name": "Sony SAB",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011749%2FSABHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 15
-        },
-        {
-          "name": "Sony MAX HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011670%2FSonyMaxhd%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 16
-        },
-        {
-          "name": "Sony MAX",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011745%2FSonyMaxSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 17
-        },
-        {
-          "name": "Sony MAX 2",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011908%2FMAX2%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 18
-        },
-        {
-          "name": "Sony PIX HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011748%2FPIXHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 19
-        },
-        {
-          "name": "Sony BBC Earth HD",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 20
-        },
-        {
-          "name": "Sony PAL",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011741%2FSonyPalSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 21
-        },
-        {
-          "name": "Sony WAH",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011906%2FSonyWah%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 22
-        },
-        {
-          "name": "Sony YAY !!",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011746%2FSonyYaySD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 23
-        },
-        {
-          "name": "Sony Marathi !!",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011740%2FSonyMarathi%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 24
-        },
-        {
-          "name": "Sony AATH",
-          "url": "https://asp1.lovable.app/api/proxy?u=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011641%2FSonyAathSD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1795098813~acl%3D%2F*~id%3D99531865786661469814544206003207~hmac%3Daa193911198a98245ee66553be429a0f0071a5e7735e6a4fba2f7c80f58f7b34",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 25
-        }
-      ],
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "finishedDate": "",
-      "timezone": "Asia/Calcutta",
-      "autoFinishTime": "",
-      "pos": 15,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "network_src_1794739811501_3nw9e",
-      "_isAutoFeedMatch": true,
-      "_createdLocally": 1795061712792
     }
   ],
   "deleted_matches": [

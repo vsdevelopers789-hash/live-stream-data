@@ -3262,6 +3262,474 @@
       "fb_key": "gh_1795052269664_0",
       "_isAutoFeedMatch": true,
       "_createdLocally": 1795052789553
+    },
+    {
+      "id": "manual_parse_4",
+      "fb_key": "gh_1795060556373_4",
+      "_dbSource": "github",
+      "sourceId": "src_1794935691924_dl4bl",
+      "sourceMatchId": "manual_parse_4",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "New Zealand Vs India",
+      "t1": "New Zealand",
+      "t2": "India",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "New Zealand Vs India LIVE",
+      "tickerEnabled": false,
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/nz.png",
+      "t2_img": "https://flagcdn.com/w160/in.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "finishedDate": "",
+      "isOthers": false,
+      "status": "live",
+      "time": "",
+      "timezone": "Asia/Kolkata",
+      "pos": 15,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 1)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 2)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0lonhyyw8/out/v1/78b4a726b305427eb3b8ef5091a28248/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 3)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 4)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 5)",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 6)",
+          "url": "http://193.47.62.41/hls/qaqaqa.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6
+        }
+      ],
+      "servers": [
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 1)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 2)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w0lonhyyw8/out/v1/78b4a726b305427eb3b8ef5091a28248/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 3)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsa8ep1ayl/out/v1/1691db997c074c45bfee48d70b3e8c12/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 4)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 5)",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "New Zealand Vs India (Streams Streams Server 6)",
+          "url": "http://193.47.62.41/hls/qaqaqa.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6
+        }
+      ],
+      "_createdLocally": 1795060556373
+    },
+    {
+      "id": "manual_parse_17",
+      "fb_key": "gh_1795060599585_17",
+      "_dbSource": "github",
+      "sourceId": "src_1794935691924_dl4bl",
+      "sourceMatchId": "manual_parse_17",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "Australia Vs England",
+      "t1": "Australia",
+      "t2": "England",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Australia Vs England LIVE",
+      "tickerEnabled": false,
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/au.png",
+      "t2_img": "https://flagcdn.com/w160/gb-eng.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "finishedDate": "",
+      "isOthers": false,
+      "status": "live",
+      "time": "",
+      "timezone": "Asia/Kolkata",
+      "pos": 16,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "Australia Vs England (Streams Streams Server 1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 2)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 3)",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 4)",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 5)",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 6)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 7)",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 7
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 8)",
+          "url": "http://193.47.62.44/hls/qqqq.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 8
+        }
+      ],
+      "servers": [
+        {
+          "name": "Australia Vs England (Streams Streams Server 1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 2)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 3)",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/c2e7rezlur/out/v1/0b3472c69b48414b9b0f137d5b938196/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 4)",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 5)",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 6)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 7)",
+          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 7
+        },
+        {
+          "name": "Australia Vs England (Streams Streams Server 8)",
+          "url": "http://193.47.62.44/hls/qqqq.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 8
+        }
+      ],
+      "_createdLocally": 1795060599585
+    },
+    {
+      "id": "manual_parse_19",
+      "fb_key": "gh_1795060609052_19",
+      "_dbSource": "github",
+      "sourceId": "src_1794935691924_dl4bl",
+      "sourceMatchId": "manual_parse_19",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "South Africa Vs Bangladesh",
+      "t1": "South Africa",
+      "t2": "Bangladesh",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "South Africa Vs Bangladesh LIVE",
+      "tickerEnabled": false,
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/za.png",
+      "t2_img": "https://flagcdn.com/w160/bd.png",
+      "card": "",
+      "isLive": true,
+      "isFinished": false,
+      "finishedDate": "",
+      "isOthers": false,
+      "status": "live",
+      "time": "",
+      "timezone": "Asia/Kolkata",
+      "pos": 17,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 2)",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 3)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 4)",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 5)",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 6)",
+          "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6
+        }
+      ],
+      "servers": [
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 1
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 2)",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 2
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 3)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 3
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 4)",
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 4
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 5)",
+          "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd",
+          "playerType": "dash",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 5
+        },
+        {
+          "name": "South Africa Vs Bangladesh (Streams Streams Server 6)",
+          "url": "http://193.47.62.59/hls/RREGEGEAA.m3u8",
+          "playerType": "hls",
+          "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
+          "pos": 6
+        }
+      ],
+      "_createdLocally": 1795060609052
     }
   ],
   "deleted_matches": [

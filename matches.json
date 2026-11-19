@@ -3263,7 +3263,7 @@
       "time": "",
       "timezone": "Asia/Kolkata",
       "pos": 15,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

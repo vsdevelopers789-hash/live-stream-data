@@ -86,6 +86,181 @@
   },
   "matches": [
     {
+      "id": "B0HKZY847Z",
+      "cat": "Cricket",
+      "sub_cat": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
+      "t1": "Pakistan",
+      "t2": "Sri Lanka",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka LIVE",
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/pk.png",
+      "t2_img": "https://flagcdn.com/w160/lk.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "drm_key": "",
+      "links": [
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd?|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server2)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server2)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Bravo Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        }
+      ],
+      "servers": [
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd?|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server2)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server2)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Alpha Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 9
+        },
+        {
+          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Bravo Cloudfront Server 2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 10
+        }
+      ],
+      "isLive": true,
+      "isFinished": false,
+      "isOthers": false,
+      "time": "",
+      "timezone": "Asia/Calcutta",
+      "autoFinishTime": "",
+      "pos": 3,
+      "visible": false,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "_dbSource": "github",
+      "fb_key": "gh_1794917389939_0",
+      "_isAutoFeedMatch": true,
+      "_createdLocally": 1794917775790
+    },
+    {
       "id": "B0HM4ZHT1F",
       "cat": "Cricket",
       "sub_cat": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India",
@@ -4349,181 +4524,6 @@
       "fb_key": "gh_1794917401435_1",
       "_isAutoFeedMatch": true,
       "_createdLocally": 1794968254889
-    },
-    {
-      "id": "B0HKZY847Z",
-      "cat": "Cricket",
-      "sub_cat": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka",
-      "t1": "Pakistan",
-      "t2": "Sri Lanka",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka LIVE",
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/pk.png",
-      "t2_img": "https://flagcdn.com/w160/lk.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/6/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "drm_key": "",
-      "links": [
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd?|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Bravo Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        }
-      ],
-      "servers": [
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 1
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd?|drmScheme=clearkey&drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 2
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 3
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 4
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (CnpTV cloudfront_server2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9egdiddjjq/out/v1/515443d95d6c4eb9b908f641e8622f89/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka (Bravo Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/q81cdtuumj/out/v1/55851c07cf594e8d8e260f8cc0a7f89c/cenc.mpd|drmLicense=717e39c4207ef6bd6a1a495fb2e3b133%3Af9f666cac7de2e2d69bd42e8fcd06ad7",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 10
-        }
-      ],
-      "isLive": true,
-      "isFinished": false,
-      "isOthers": false,
-      "time": "",
-      "timezone": "Asia/Calcutta",
-      "autoFinishTime": "",
-      "pos": 3,
-      "visible": false,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "_dbSource": "github",
-      "fb_key": "gh_1794917389939_0",
-      "_isAutoFeedMatch": true,
-      "_createdLocally": 1794917775790
     }
   ]
 }

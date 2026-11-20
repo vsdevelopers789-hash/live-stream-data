@@ -3089,7 +3089,7 @@
       "timezone": "Asia/Calcutta",
       "autoFinishTime": "",
       "pos": 12,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,

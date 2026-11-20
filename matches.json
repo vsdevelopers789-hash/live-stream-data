@@ -1866,7 +1866,7 @@
       "timezone": "Asia/Kolkata",
       "autoFinishTime": "",
       "pos": 1,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "streamTimerDuration": 5,
@@ -2478,7 +2478,7 @@
       "time": "3 AM IST",
       "timezone": "Asia/Kolkata",
       "pos": 16,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -2603,17 +2603,17 @@
       "id": "network_src_1794739811501_3nw9e",
       "cat": "Others",
       "sub_cat": "Channel Network",
-      "t1": "Sony Network All Channel's",
-      "t2": "",
+      "t1": "India",
+      "t2": "New Zealand",
       "t1_score": "",
       "t2_score": "",
       "ticker": "",
       "tickerEnabled": false,
       "inningsBadgeEnabled": false,
       "innings": "",
-      "t1_img": "",
-      "t2_img": "",
-      "card": "https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…TIuk98TAPMEVVwsilk6MTl_192Ks8dYTeRbVuaYxcSjA&s=10",
+      "t1_img": "https://flagcdn.com/w160/in.png",
+      "t2_img": "https://flagcdn.com/w160/nz.png",
+      "card": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTWRI8KWZyaml7FlPGSCDBXUircw0vQz7DxGq4dytzaA&s=10",
       "drm_key": "",
       "links": [
         {
@@ -2985,7 +2985,7 @@
       "_dbSource": "github",
       "fb_key": "network_src_1794739811501_3nw9e",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1795147302208
+      "_createdLocally": 1795147671743
     }
   ],
   "deleted_matches": [

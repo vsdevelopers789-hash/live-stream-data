@@ -1475,184 +1475,284 @@
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV fastly_server2)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV amazon_server2)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 6
+          "pos": 6,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV akamai_server2)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 7
+          "pos": 7,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV cloudfront_server2)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 8
+          "pos": 8,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 9
+          "pos": 9,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (Bravo Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 10
+          "pos": 10,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 1
+          "pos": 1,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 2
+          "pos": 2,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 3
+          "pos": 3,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 4
+          "pos": 4,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV fastly_server2)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 5
+          "pos": 5,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV amazon_server2)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 6
+          "pos": 6,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV akamai_server2)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 7
+          "pos": 7,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (CnpTV cloudfront_server2)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 8
+          "pos": 8,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (Alpha Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 9
+          "pos": 9,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal (Bravo Cloudfront Server 2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/byni2k8l0r/out/v1/1b41b40c85484b54b4e4d1feb159a80e/cenc.mpd|drmLicense=91ffd985da527c7d77ecc801128d11cc%3A3bb5d51b2fef3b50c43d0cc12455eaf7",
-          "playerType": "dash",
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
           "sourceManaged": true,
           "visible": true,
-          "pos": 10
+          "pos": 10,
+          "drm_key": "91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1795177141118

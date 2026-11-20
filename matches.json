@@ -2590,7 +2590,7 @@
       "time": "3 AM IST",
       "timezone": "Asia/Kolkata",
       "pos": 16,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

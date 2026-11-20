@@ -1830,152 +1830,102 @@
       "links": [
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1
         },
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2
         },
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3
         },
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4
         },
         {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV cloudfront_server2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (Bravo Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
+          "sourceManaged": true,
           "visible": true,
-          "isBrowser": false,
-          "pos": 10
+          "pos": 5
         }
       ],
       "servers": [
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1
         },
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2
         },
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3
         },
         {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4
         },
         {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 5
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 6
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 7
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (CnpTV cloudfront_server2)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
-          "isBrowser": false,
-          "pos": 8
-        },
-        {
           "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (Alpha Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mvmval8dm6/out/v1/bad69dbadd144f5ba75a2e9b948a5e0d/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
-          "visible": true,
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cq1jp64r6p/out/v1/c500a59e5a174e4681c5c88d8d8b3b4d/cenc.mpd|drmLicense=766c7943cfc3e9d982ff49ca5e16bb90%3Af715c4b43971ca6990af7eff70f021b0",
+          "playerType": "dash",
           "isBrowser": false,
-          "pos": 9
-        },
-        {
-          "name": "India tour of New Zealand 2026 - 1st Test - New Zealand vs India (Bravo Cloudfront Server 2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2wlsvhy3hu/out/v1/9cea9c768f634f94bc808ef640fe5f01/cenc.mpd|drmLicense=52a0f31918f2a6f97809d3586aa6c41e%3Aa108a050dfc5cf2065c23370efa58b09",
+          "sourceManaged": true,
           "visible": true,
-          "isBrowser": false,
-          "pos": 10
+          "pos": 5
         }
       ],
       "isLive": true,
       "isFinished": false,
       "isOthers": false,
-      "time": "",
-      "timezone": "Asia/Calcutta",
+      "time": "3:30 AM BDT",
+      "timezone": "Asia/Kolkata",
       "autoFinishTime": "",
       "pos": 1,
       "visible": true,
@@ -1986,7 +1936,10 @@
       "_dbSource": "github",
       "fb_key": "gh_1795052269664_0",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1795052789553
+      "_createdLocally": 1795052789553,
+      "status": "live",
+      "sourceId": "src_1794739841837_2eml6",
+      "sourceMatchId": "B0HM4ZHT1F"
     },
     {
       "id": "network_src_1794739811501_3nw9e",

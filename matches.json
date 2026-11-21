@@ -76,7 +76,7 @@
   "category_visibility": {
     "Cricket": true,
     "IPL": false,
-    "Football": true,
+    "Football": false,
     "Others": true
   },
   "sub_categories": {

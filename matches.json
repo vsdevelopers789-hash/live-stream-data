@@ -3029,7 +3029,7 @@
       "status": "live",
       "time": "",
       "timezone": "Asia/Calcutta",
-      "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
+      "drm_key": "",
       "pos": 2,
       "visible": true,
       "serversVisible": true,
@@ -3038,116 +3038,68 @@
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 1,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 2,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 3,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 4,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         }
       ],
       "servers": [
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 1,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 2,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 3,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd|drmLicense=437b26c171c8c2b7d3da296992ec0498%3A76e472aecda315ee5649fabf54b6a905",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 4,
-          "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         }
       ],
       "_createdLocally": 1795343035296,

@@ -2283,7 +2283,7 @@
       "id": "network_src_1794739811501_3nw9e",
       "cat": "Others",
       "sub_cat": "Channel Network",
-      "t1": "Sony Network All Channel's",
+      "t1": "",
       "t2": "",
       "t1_score": "",
       "t2_score": "",
@@ -2293,7 +2293,7 @@
       "innings": "",
       "t1_img": "",
       "t2_img": "",
-      "card": "",
+      "card": "https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/afaqs/media/post_attachments/3ffb6c7ced5b4ef914c73a09af551d466da342933ad77b7a185d5cd6066f6367.png",
       "drm_key": "",
       "links": [
         {
@@ -2637,7 +2637,25 @@
       "_dbSource": "github",
       "fb_key": "network_src_1794739811501_3nw9e",
       "_isAutoFeedMatch": true,
-      "_createdLocally": 1795309655908
+      "_createdLocally": 1795330800028,
+      "infoImage": "",
+      "othersText": "",
+      "scoreUrl": "",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "sourceId": "",
+      "sourceMatchId": "",
+      "sourceLabel": "",
+      "isChannelCard": false,
+      "isNetworkCard": false,
+      "channelId": "",
+      "channelName": "",
+      "channelLogo": "",
+      "sourceOverrides": {
+        "t1": true,
+        "card": true,
+        "status": true
+      }
     }
   ],
   "deleted_matches": [

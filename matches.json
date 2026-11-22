@@ -1318,7 +1318,7 @@
       "timezone": "Asia/Kolkata",
       "drm_key": "6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76",
       "pos": 8,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -1635,7 +1635,7 @@
       "timezone": "Asia/Kolkata",
       "drm_key": "46bbf645122de0df0cd0b19d4487e2ce:45e84957268ce56d53ae6d0fadec5964",
       "pos": 9,
-      "visible": false,
+      "visible": true,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

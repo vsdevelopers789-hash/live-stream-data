@@ -3613,7 +3613,7 @@
       "status": "live",
       "time": "",
       "timezone": "Asia/Calcutta",
-      "drm_key": "",
+      "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
       "pos": 1,
       "visible": true,
       "serversVisible": true,
@@ -3622,68 +3622,116 @@
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd|drmLicense=531497de47944ade5410fe5852905698%3A574547fdae92793f4630b65dade01761",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4,
-          "sourceManaged": true
+          "drm_key": "531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1795515739326,

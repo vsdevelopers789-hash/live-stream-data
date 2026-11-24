@@ -3632,7 +3632,7 @@
       "status": "live",
       "time": "",
       "timezone": "Asia/Calcutta",
-      "drm_key": "",
+      "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
       "pos": 2,
       "visible": true,
       "serversVisible": true,
@@ -3641,68 +3641,116 @@
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "England tour of Australia 2026 - 2nd T20I - Australia vs England (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd|drmLicense=5884f024392a0ac512db400c4978db37%3Aa99a15ba3e7e0494e8544b1cd08d9a73",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4,
-          "sourceManaged": true
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1795515808826,

@@ -3651,7 +3651,7 @@
       "status": "live",
       "time": "",
       "timezone": "Asia/Calcutta",
-      "drm_key": "",
+      "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
       "pos": 3,
       "visible": true,
       "serversVisible": true,
@@ -3660,68 +3660,116 @@
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "servers": [
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 1,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 2,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 3,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         },
         {
           "name": "Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd|drmLicense=2c0a5ca2bcc67426156a65d85d53f5ae%3A02b0a91443f3b8682dd08912875eeb61",
-          "visible": true,
+          "headers": {},
           "isBrowser": false,
+          "playerType": "file",
+          "sourceManaged": true,
+          "visible": true,
           "pos": 4,
-          "sourceManaged": true
+          "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61",
+          "drmProtected": true,
+          "drmSystem": "",
+          "licenseUrl": ""
         }
       ],
       "_createdLocally": 1795515855969,

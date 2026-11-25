@@ -491,7 +491,7 @@
       "time": "3 PM IST",
       "timezone": "Asia/Kolkata",
       "pos": 14,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -747,7 +747,7 @@
       "time": "3:30 PM BDT",
       "timezone": "Asia/Kolkata",
       "pos": 5,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -1064,7 +1064,7 @@
       "timezone": "Asia/Kolkata",
       "drm_key": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63",
       "pos": 7,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -2426,7 +2426,7 @@
       "isOthers": false,
       "status": "live",
       "time": "",
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "links": [
         {
@@ -3153,7 +3153,7 @@
       "timezone": "Asia/Kolkata",
       "drm_key": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
       "pos": 2,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [
@@ -3318,7 +3318,7 @@
       "isOthers": false,
       "status": "live",
       "time": "",
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "links": [
         {
@@ -4359,7 +4359,7 @@
       "timezone": "Asia/Kolkata",
       "drm_key": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df",
       "pos": 13,
-      "visible": true,
+      "visible": false,
       "serversVisible": true,
       "streamTimerEnabled": false,
       "links": [

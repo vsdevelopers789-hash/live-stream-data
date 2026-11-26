@@ -3233,10 +3233,10 @@
       "finishedDate": "",
       "isOthers": false,
       "status": "live",
-      "time": "3:05 PM IST",
-      "timezone": "Asia/Kolkata",
-      "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-      "pos": 9,
+      "time": "",
+      "timezone": "Asia/Calcutta",
+      "drm_key": "",
+      "pos": 1,
       "visible": true,
       "serversVisible": true,
       "streamTimerEnabled": false,
@@ -3244,231 +3244,154 @@
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 1,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 2,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 3,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 4,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server2)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 5,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server2)",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 6,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server2)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 7,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 8,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         }
       ],
       "servers": [
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server1)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 1,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server1)",
           "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 2,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server1)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 3,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server1)",
           "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 4,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server2)",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 5,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server2)",
           "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 6,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server2)",
           "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 7,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         },
         {
           "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server2)",
           "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
           "visible": true,
+          "isBrowser": false,
           "pos": 8,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
+          "sourceManaged": true
         }
       ],
-      "_createdLocally": 1795687615357
+      "_createdLocally": 1795687778914,
+      "inningsBadgeEnabled": false,
+      "infoImage": "",
+      "othersText": "",
+      "scoreUrl": "",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "autoFinishTime": "",
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "sourceLabel": "",
+      "isChannelCard": false,
+      "isNetworkCard": false,
+      "channelId": "",
+      "channelName": "",
+      "channelLogo": "",
+      "sourceOverrides": {
+        "time": true,
+        "timezone": true
+      }
     }
   ],
   "deleted_matches": [

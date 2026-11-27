@@ -1448,286 +1448,6 @@
       "_createdLocally": 1795677705861
     },
     {
-      "id": "B0HQTF8G33",
-      "fb_key": "gh_1795687615357_1",
-      "_dbSource": "github",
-      "sourceId": "src_1794921796408_i7s92",
-      "sourceMatchId": "B0HQTF8G33",
-      "_isAutoFeedMatch": true,
-      "cat": "Cricket",
-      "sub_cat": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A",
-      "t1": "Sri Lanka A",
-      "t2": "India A",
-      "t1_score": "",
-      "t2_score": "",
-      "ticker": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A LIVE",
-      "tickerEnabled": false,
-      "innings": "LIVE",
-      "t1_img": "https://flagcdn.com/w160/lk.png",
-      "t2_img": "https://flagcdn.com/w160/in.png",
-      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-      "isLive": true,
-      "isFinished": false,
-      "finishedDate": "",
-      "isOthers": false,
-      "status": "live",
-      "time": "",
-      "timezone": "Asia/Calcutta",
-      "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-      "pos": 1,
-      "visible": true,
-      "serversVisible": true,
-      "streamTimerEnabled": false,
-      "links": [
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 6,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 7,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 8,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "servers": [
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server1)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 1,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server1)",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 2,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server1)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 3,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server1)",
-          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 4,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server2)",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 5,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server2)",
-          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 6,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server2)",
-          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 7,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        },
-        {
-          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server2)",
-          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
-          "headers": {},
-          "isBrowser": false,
-          "playerType": "file",
-          "sourceManaged": true,
-          "visible": true,
-          "pos": 8,
-          "drm_key": "b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432",
-          "drmProtected": true,
-          "drmSystem": "",
-          "licenseUrl": ""
-        }
-      ],
-      "_createdLocally": 1795687778914,
-      "inningsBadgeEnabled": false,
-      "infoImage": "",
-      "othersText": "",
-      "scoreUrl": "",
-      "selected_match_id": "",
-      "assigned_api_key": "",
-      "autoFinishTime": "",
-      "streamTimerDuration": 5,
-      "streamTimerStartedAt": null,
-      "sourceLabel": "",
-      "isChannelCard": false,
-      "isNetworkCard": false,
-      "channelId": "",
-      "channelName": "",
-      "channelLogo": "",
-      "sourceOverrides": {
-        "time": true,
-        "timezone": true
-      }
-    },
-    {
       "id": "network_src_1794739825590_w03hb",
       "fb_key": "network_src_1794739825590_w03hb",
       "_dbSource": "github",
@@ -1758,12 +1478,12 @@
         {
           "id": "src_1794739825590_w03hb:set-hd:server",
           "name": "SET HD BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1779,12 +1499,12 @@
         {
           "id": "src_1794739825590_w03hb:sab-hd:server",
           "name": "Sony SAB HD BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1800,12 +1520,12 @@
         {
           "id": "src_1794739825590_w03hb:marathi:server",
           "name": "Sony Marathi BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1821,12 +1541,12 @@
         {
           "id": "src_1794739825590_w03hb:pal:server",
           "name": "Sony Pal BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1842,12 +1562,12 @@
         {
           "id": "src_1794739825590_w03hb:aath:server",
           "name": "Sony Aath BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1863,12 +1583,12 @@
         {
           "id": "src_1794739825590_w03hb:yay:server",
           "name": "Sony Yay BROWSERPLAY · Kids",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1884,12 +1604,12 @@
         {
           "id": "src_1794739825590_w03hb:max-hd:server",
           "name": "Sony MAX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1905,12 +1625,12 @@
         {
           "id": "src_1794739825590_w03hb:max:server",
           "name": "Sony MAX BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1926,12 +1646,12 @@
         {
           "id": "src_1794739825590_w03hb:max2:server",
           "name": "Sony MAX 2 BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1947,12 +1667,12 @@
         {
           "id": "src_1794739825590_w03hb:wah:server",
           "name": "Sony WAH BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1968,12 +1688,12 @@
         {
           "id": "src_1794739825590_w03hb:pix-hd:server",
           "name": "Sony PIX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -1989,12 +1709,12 @@
         {
           "id": "src_1794739825590_w03hb:ten1-hd:server",
           "name": "Sony Ten 1 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2010,12 +1730,12 @@
         {
           "id": "src_1794739825590_w03hb:ten1:server",
           "name": "Sony Ten 1 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2031,12 +1751,12 @@
         {
           "id": "src_1794739825590_w03hb:ten2-hd:server",
           "name": "Sony Ten 2 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2052,12 +1772,12 @@
         {
           "id": "src_1794739825590_w03hb:ten2:server",
           "name": "Sony Ten 2 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2073,12 +1793,12 @@
         {
           "id": "src_1794739825590_w03hb:ten3-hd:server",
           "name": "Sony Ten 3 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2094,12 +1814,12 @@
         {
           "id": "src_1794739825590_w03hb:ten3:server",
           "name": "Sony Ten 3 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2115,12 +1835,12 @@
         {
           "id": "src_1794739825590_w03hb:ten4-hd:server",
           "name": "Sony Ten 4 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2136,12 +1856,12 @@
         {
           "id": "src_1794739825590_w03hb:ten4:server",
           "name": "Sony Ten 4 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2157,12 +1877,12 @@
         {
           "id": "src_1794739825590_w03hb:ten4-kannada:server",
           "name": "Ten 4 Kannada BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2178,12 +1898,12 @@
         {
           "id": "src_1794739825590_w03hb:ten5-hd:server",
           "name": "Sony Ten 5 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2199,12 +1919,12 @@
         {
           "id": "src_1794739825590_w03hb:ten5:server",
           "name": "Sony Ten 5 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2220,12 +1940,12 @@
         {
           "id": "src_1794739825590_w03hb:bbc-earth:server",
           "name": "BBC Earth HD BROWSERPLAY · Infotainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2243,12 +1963,12 @@
         {
           "id": "src_1794739825590_w03hb:set-hd:server",
           "name": "SET HD BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2264,12 +1984,12 @@
         {
           "id": "src_1794739825590_w03hb:sab-hd:server",
           "name": "Sony SAB HD BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2285,12 +2005,12 @@
         {
           "id": "src_1794739825590_w03hb:marathi:server",
           "name": "Sony Marathi BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2306,12 +2026,12 @@
         {
           "id": "src_1794739825590_w03hb:pal:server",
           "name": "Sony Pal BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2327,12 +2047,12 @@
         {
           "id": "src_1794739825590_w03hb:aath:server",
           "name": "Sony Aath BROWSERPLAY · Entertainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2348,12 +2068,12 @@
         {
           "id": "src_1794739825590_w03hb:yay:server",
           "name": "Sony Yay BROWSERPLAY · Kids",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2369,12 +2089,12 @@
         {
           "id": "src_1794739825590_w03hb:max-hd:server",
           "name": "Sony MAX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2390,12 +2110,12 @@
         {
           "id": "src_1794739825590_w03hb:max:server",
           "name": "Sony MAX BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2411,12 +2131,12 @@
         {
           "id": "src_1794739825590_w03hb:max2:server",
           "name": "Sony MAX 2 BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2432,12 +2152,12 @@
         {
           "id": "src_1794739825590_w03hb:wah:server",
           "name": "Sony WAH BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2453,12 +2173,12 @@
         {
           "id": "src_1794739825590_w03hb:pix-hd:server",
           "name": "Sony PIX HD BROWSERPLAY · Movies",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2474,12 +2194,12 @@
         {
           "id": "src_1794739825590_w03hb:ten1-hd:server",
           "name": "Sony Ten 1 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2495,12 +2215,12 @@
         {
           "id": "src_1794739825590_w03hb:ten1:server",
           "name": "Sony Ten 1 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2516,12 +2236,12 @@
         {
           "id": "src_1794739825590_w03hb:ten2-hd:server",
           "name": "Sony Ten 2 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2537,12 +2257,12 @@
         {
           "id": "src_1794739825590_w03hb:ten2:server",
           "name": "Sony Ten 2 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2558,12 +2278,12 @@
         {
           "id": "src_1794739825590_w03hb:ten3-hd:server",
           "name": "Sony Ten 3 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2579,12 +2299,12 @@
         {
           "id": "src_1794739825590_w03hb:ten3:server",
           "name": "Sony Ten 3 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2600,12 +2320,12 @@
         {
           "id": "src_1794739825590_w03hb:ten4-hd:server",
           "name": "Sony Ten 4 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2621,12 +2341,12 @@
         {
           "id": "src_1794739825590_w03hb:ten4:server",
           "name": "Sony Ten 4 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2642,12 +2362,12 @@
         {
           "id": "src_1794739825590_w03hb:ten4-kannada:server",
           "name": "Ten 4 Kannada BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4kannada/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2663,12 +2383,12 @@
         {
           "id": "src_1794739825590_w03hb:ten5-hd:server",
           "name": "Sony Ten 5 HD BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2684,12 +2404,12 @@
         {
           "id": "src_1794739825590_w03hb:ten5:server",
           "name": "Sony Ten 5 BROWSERPLAY · Sports",
-          "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2705,12 +2425,12 @@
         {
           "id": "src_1794739825590_w03hb:bbc-earth:server",
           "name": "BBC Earth HD BROWSERPLAY · Infotainment",
-          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+          "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
           "headers": {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
             "Referrer": "https://www.sonyliv.com/",
             "Origin": "https://www.sonyliv.com",
-            "Cookie": "hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55",
+            "Cookie": "hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411",
             "Referer": "https://www.sonyliv.com/"
           },
           "isBrowser": false,
@@ -2875,6 +2595,191 @@
         }
       ],
       "_createdLocally": 1795742913988
+    },
+    {
+      "id": "B0HQTF8G33",
+      "fb_key": "gh_1795687615357_1",
+      "_dbSource": "github",
+      "sourceId": "src_1794921796408_i7s92",
+      "sourceMatchId": "B0HQTF8G33",
+      "_isAutoFeedMatch": true,
+      "cat": "Cricket",
+      "sub_cat": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A",
+      "t1": "Sri Lanka A",
+      "t2": "India A",
+      "t1_score": "",
+      "t2_score": "",
+      "ticker": "",
+      "tickerEnabled": false,
+      "innings": "LIVE",
+      "t1_img": "https://flagcdn.com/w160/lk.png",
+      "t2_img": "https://flagcdn.com/w160/in.png",
+      "card": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+      "isLive": true,
+      "isFinished": false,
+      "finishedDate": "",
+      "isOthers": false,
+      "status": "live",
+      "time": "",
+      "timezone": "Asia/Calcutta",
+      "drm_key": "",
+      "pos": 1,
+      "visible": true,
+      "serversVisible": true,
+      "streamTimerEnabled": false,
+      "links": [
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server2)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8,
+          "sourceManaged": true
+        }
+      ],
+      "servers": [
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server1)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 1,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server1)",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 2,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server1)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 3,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server1)",
+          "url": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 4,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV fastly_server2)",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 5,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV amazon_server2)",
+          "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 6,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV akamai_server2)",
+          "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 7,
+          "sourceManaged": true
+        },
+        {
+          "name": "ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A (CnpTV cloudfront_server2)",
+          "url": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5vfqkoj2sc/out/v1/19699577f69c4ab899e135323a5de2ed/cenc.mpd|drmLicense=b84dc7acdbb36852e3c2f308621ef492%3A749e3c330bfd249d934532075081f432",
+          "visible": true,
+          "isBrowser": false,
+          "pos": 8,
+          "sourceManaged": true
+        }
+      ],
+      "_createdLocally": 1795765853822,
+      "inningsBadgeEnabled": false,
+      "infoImage": "",
+      "othersText": "",
+      "scoreUrl": "https://www.cricbuzz.com/live-cricket-scores/177210/inda-vs-sla-1st-semi-final-a1-v-b2-acc-mens-asia-cup-rising-stars-2026",
+      "selected_match_id": "",
+      "assigned_api_key": "",
+      "autoFinishTime": "",
+      "streamTimerDuration": 5,
+      "streamTimerStartedAt": null,
+      "sourceLabel": "",
+      "isChannelCard": false,
+      "isNetworkCard": false,
+      "channelId": "",
+      "channelName": "",
+      "channelLogo": "",
+      "sourceOverrides": {
+        "time": true,
+        "timezone": true
+      },
+      "api_badge": "Live"
     }
   ],
   "deleted_matches": [

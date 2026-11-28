@@ -2609,7 +2609,7 @@
       "t2": "India A",
       "t1_score": "",
       "t2_score": "",
-      "ticker": "",
+      "ticker": "Live",
       "tickerEnabled": false,
       "innings": "LIVE",
       "t1_img": "https://flagcdn.com/w160/lk.png",
@@ -2623,7 +2623,7 @@
       "time": "",
       "timezone": "Asia/Calcutta",
       "drm_key": "",
-      "pos": 1,
+      "pos": 2,
       "visible": true,
       "serversVisible": true,
       "streamTimerEnabled": false,
@@ -2759,7 +2759,7 @@
           "sourceManaged": true
         }
       ],
-      "_createdLocally": 1795765853822,
+      "_createdLocally": 1795842251933,
       "inningsBadgeEnabled": false,
       "infoImage": "",
       "othersText": "",
